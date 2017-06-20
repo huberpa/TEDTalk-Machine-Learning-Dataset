@@ -1,0 +1,1 @@
+[[1532, "disease", "name"], [1971, "polio", "Congo"], [1919, "years", "things"], [1319, "countries", "lives"], [1410, "vaccine", "row"], [4074, "money", "help"], [3674, "polio", "Congo"], [1456, "challenge", "test"], [2247, "virus", "board"], [956, "world", "time"]]

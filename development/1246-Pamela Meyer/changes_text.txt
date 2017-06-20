@@ -1,0 +1,1 @@
+[[2304, "someone", "picture"], [1741, "language", "education"], [3696, "someone", "move"], [3956, "bit", "show"], [262, "Gotcha", "Henderson"], [1225, "Koko", "Hero"], [2812, "anger", "piano"], [377, "power", "try"], [1240, "Koko", "Minority"], [1651, "denial", "pound"]]

@@ -1,0 +1,1 @@
+[[778, "Drugsheaven", "Bamiyan"], [493, "product", "shape"], [2112, "site", "tool"], [2232, "news", "cell"], [342, "place", "example"], [2221, "news", "difference"], [876, "gram", "carrot"], [744, "Drugsheaven", "DuPont"], [1643, "achievement", "fancy"], [2124, "site", "organization"]]

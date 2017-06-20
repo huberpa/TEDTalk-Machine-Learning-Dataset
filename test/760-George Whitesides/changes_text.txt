@@ -1,0 +1,1 @@
+[[565, "color", "experiment"], [986, "test", "ocean"], [502, "shirt", "candidate"], [2455, "something", "work"], [972, "bar", "pleasure"], [2992, "editor", "self-interest"], [475, "paper", "land"], [2465, "paper", "cost"], [487, "wine", "decline"], [335, "cost", "paper"]]

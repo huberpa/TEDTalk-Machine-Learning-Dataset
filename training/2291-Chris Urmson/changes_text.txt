@@ -1,0 +1,1 @@
+[[2825, "left", "seen"], [1216, "accident", "healthcare"], [1131, "car", "history"], [3071, "light", "man"], [163, "world", "time"], [3467, "route", "Narrator"], [2534, "cyclist", "spit"], [2058, "car", "planet"], [389, "minutes", "students"], [1460, "look", "say"]]

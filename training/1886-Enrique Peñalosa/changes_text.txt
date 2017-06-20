@@ -1,0 +1,1 @@
+[[1523, "cities", "needs"], [1510, "cars", "girls"], [195, "space", "number"], [905, "space", "future"], [1778, "street", "stay"], [171, "money", "number"], [2198, "life", "work"], [2103, "percent", "idea"], [550, "buses", "lanes"], [1494, "cars", "issues"]]

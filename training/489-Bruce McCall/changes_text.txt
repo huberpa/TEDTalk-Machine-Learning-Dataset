@@ -1,0 +1,1 @@
+[[1595, "York", "house"], [1489, "York", "house"], [727, "car", "hope"], [1517, "fun", "force"], [179, "golf", "Oxford"], [1571, "Eurotrash", "ain"], [1756, "strap", "ranch"], [1765, "strap", "goddess"], [1559, "word", "nature"], [849, "wing", "bat"]]

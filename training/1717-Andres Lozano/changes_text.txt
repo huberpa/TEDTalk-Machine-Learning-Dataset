@@ -1,0 +1,1 @@
+[[2604, "Alzheimer", "Mary"], [1040, "Man", "purpose"], [2677, "power", "space"], [2360, "circuits", "headlines"], [3074, "circuits", "zones"], [93, "neurosurgery", "Cows"], [1039, ")", "time"], [2255, "depression", "coffee"], [3213, "brain", "part"], [452, "trouble", "cover"]]

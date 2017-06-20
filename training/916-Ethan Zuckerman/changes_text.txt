@@ -1,0 +1,1 @@
+[[2596, "world", "time"], [2268, "news", "game"], [2790, "Madagascar", "Finance"], [2936, "people", "things"], [880, "Twitter", "Washington"], [2460, "problem", "system"], [1060, "conversation", "object"], [320, "Galvao", "Medicare"], [585, "Twitter", "Iraq"], [1110, "people", "things"]]

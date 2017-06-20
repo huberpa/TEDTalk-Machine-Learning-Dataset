@@ -1,0 +1,1 @@
+[[3147, "parents", "needs"], [4519, "building", "man"], [5537, "eBay", "purchase"], [107, "pictures", "computers"], [5416, "friends", "words"], [5721, "center", "theory"], [5306, "Willie", "Sousa"], [4952, "park", "phenomenon"], [3670, "Dizzy", "photovoltaic"], [5375, "Francisco", "Street"]]

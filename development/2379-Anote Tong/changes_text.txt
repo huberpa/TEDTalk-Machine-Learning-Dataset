@@ -1,0 +1,1 @@
+[[2934, "vessel", "counter"], [1491, "culture", "view"], [3205, "percent", "talk"], [2505, "something", "thing"], [578, "sea", "journey"], [2539, "tuna", "category"], [2411, "fish", "friend"], [1210, "people", "years"], [2935, "day", "year"], [2398, "fish", "oil"]]

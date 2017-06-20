@@ -1,0 +1,1 @@
+[[895, "kind", "life"], [57, "Glass", "Dean"], [185, "Google", "First"], [213, "(", "time"], [685, "vision", "boy"], [198, "Google", "Maybe"], [156, "Man", "scientist"], [173, "Man", "window"], [114, "Man", "scientist"], [53, "Man", "character"]]

@@ -1,0 +1,1 @@
+[[1010, "Poem", "strap"], [1360, "computers", "reasons"], [1894, "computer", "community"], [1702, "Stein", "Horse"], [1164, "model", "word"], [1290, "poem", "discussion"], [1250, "poem", "lady"], [1379, "computers", "pictures"], [697, "thousands", "lots"], [1911, "computer", "bad"]]

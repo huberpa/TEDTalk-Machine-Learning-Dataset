@@ -1,0 +1,1 @@
+[[1372, "life", "lot"], [2922, "life", "lot"], [1368, "life", "lot"], [1764, "King", "wood"], [1956, "evolution", "anybody"], [271, "technology", "example"], [3101, "game", "figure"], [3767, "person", "everything"], [3717, "way", "world"], [1097, "approaches", "chips"]]

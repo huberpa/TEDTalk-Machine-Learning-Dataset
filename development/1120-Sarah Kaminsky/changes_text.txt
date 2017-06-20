@@ -1,0 +1,1 @@
+[[1605, "hour", "trust"], [1306, "man", "stuff"], [1618, "people", "years"], [2349, "May", "Latin"], [2039, "father", "deal"], [1274, "documents", "abilities"], [2293, "father", "deal"], [400, "school", "whole"], [1315, "man", "play"], [2078, "father", "deal"]]

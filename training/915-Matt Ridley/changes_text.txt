@@ -1,0 +1,1 @@
+[[574, "idea", "fact"], [867, "dog", "board"], [1961, "reproduction", "adversity"], [1691, "people", "things"], [824, "exchange", "capture"], [3298, "brain", "problem"], [1385, "light", "food"], [1721, "people", "things"], [3184, "things", "years"], [2984, "computer", "city"]]

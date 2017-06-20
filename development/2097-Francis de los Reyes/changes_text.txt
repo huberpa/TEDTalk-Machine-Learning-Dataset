@@ -1,0 +1,1 @@
+[[485, "problem", "place"], [123, "toilets", "strands"], [1470, "pits", "orchestras"], [1334, "pit", "ego"], [293, "sanitation", "concert"], [863, "sanitation", "division"], [1249, "infrastructure", "wealth"], [806, "river", "effort"], [1248, "sanitation", "separation"], [1003, "possibilities", "techniques"]]

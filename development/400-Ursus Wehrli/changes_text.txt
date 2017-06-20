@@ -1,0 +1,1 @@
+[[634, "Klee", "Plaza"], [2134, "people", "things"], [1101, "den", "cruelty"], [1484, "Haring", "paving"], [2438, "thing", "Applause"], [1103, "Dr.", "Western"], [834, "picture", "computer"], [1230, "one", "two"], [676, "orange", "disability"], [534, "art", "house"]]

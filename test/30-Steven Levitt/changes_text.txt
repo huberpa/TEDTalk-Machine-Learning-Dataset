@@ -1,0 +1,1 @@
+[[2169, "crash", "theme"], [3627, "story", "technology"], [2155, "crash", "mile"], [3895, "pills", "electrodes"], [1730, "car", "book"], [1712, "car", "job"], [1363, "percent", "talk"], [367, "child", "couple"], [206, "cure", "lunch"], [4176, "injury", "miracle"]]

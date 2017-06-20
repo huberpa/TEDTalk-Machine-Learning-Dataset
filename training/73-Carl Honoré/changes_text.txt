@@ -1,0 +1,1 @@
+[[1264, "time", "world"], [1180, "time", "world"], [3737, "world", "time"], [1519, "Slow", "pond"], [76, "book", "business"], [2311, "countries", "lives"], [358, "course", "problem"], [2977, "things", "years"], [1503, "Movement", "Jefferson"], [169, "world", "time"]]

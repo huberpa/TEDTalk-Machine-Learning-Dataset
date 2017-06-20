@@ -1,0 +1,1 @@
+[[2301, "China", "York"], [2560, "Asia", "Washington"], [526, "China", "TED"], [1578, "Chinese", "ice"], [1532, "authority", "doubt"], [1996, "state", "level"], [389, "China", "York"], [2051, "state", "difference"], [72, "economy", "surface"], [568, "China", "York"]]

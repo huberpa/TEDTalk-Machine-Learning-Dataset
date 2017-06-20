@@ -1,0 +1,1 @@
+[[3921, "RISD", "angel"], [3841, "RISD", "angel"], [2430, "media", "weeks"], [3625, "circle-triangle-square", "Forgetfulness"], [2137, "mouse", "traffic"], [663, "father", "phone"], [1741, "pen", "terror"], [3275, "computers", "reasons"], [1229, "moment", "side"], [1237, "moment", "family"]]

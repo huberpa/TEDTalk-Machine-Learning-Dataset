@@ -1,0 +1,1 @@
+[[2467, "services", "choices"], [2732, "teashop", "aria"], [1740, "village", "pattern"], [1170, "stuff", "play"], [1095, "people", "things"], [1662, "Uganda", "Nature"], [2335, "stuff", "play"], [1797, "phone", "size"], [1647, "people", "years"], [2770, "values", "legs"]]

@@ -1,0 +1,1 @@
+[[2109, ")", "time"], [399, "church", "confidence"], [618, "CO", "genomic"], [1855, "people", "things"], [699, "CO", "anthropology"], [1673, "software", "cause"], [1083, "disaster", "tradition"], [1992, "year", "fact"], [1441, "Data", "mouths"], [925, "point", "end"]]

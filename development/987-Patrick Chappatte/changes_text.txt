@@ -1,0 +1,1 @@
+[[227, "world", "time"], [1150, "journalism", "intensity"], [1134, "cartoons", "alternatives"], [755, "cartoons", "agents"], [1411, "cartoonists", "inequalities"], [1475, "cartoons", "supplies"], [450, "pictures", "computers"], [290, "Well", "even"], [1452, "cartoons", "physicians"], [1666, "Lebanon", "Cape"]]

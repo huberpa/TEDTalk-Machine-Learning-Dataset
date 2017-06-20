@@ -1,0 +1,1 @@
+[[2239, "prisoner", "recall"], [1590, "humans", "media"], [2638, "people", "things"], [1165, "game", "war"], [872, "Kevin", "Grand"], [1377, "game", "leave"], [1255, "split", "beach"], [2055, "world", "time"], [2196, "Amazon", "Japanese"], [1344, "game", "entire"]]

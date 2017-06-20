@@ -1,0 +1,1 @@
+[[1382, "AR", "gradients"], [1598, "hand", "car"], [111, "things", "years"], [423, "attention", "animal"], [948, "Hi", "rescue"], [648, "attention", "program"], [1892, "something", "thing"], [1078, "Joe", "Smith"], [573, "something", "right"], [1437, "hand", "book"]]

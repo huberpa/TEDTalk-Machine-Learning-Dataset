@@ -1,0 +1,1 @@
+[[1961, "reserves", "cattle"], [2500, "people", "years"], [514, "Africa", "New"], [456, "people", "years"], [2377, "banks", "interactions"], [197, "Africa", "New"], [1197, "people", "years"], [2021, "percent", "today"], [1192, "people", "years"], [647, "fight", "standing"]]

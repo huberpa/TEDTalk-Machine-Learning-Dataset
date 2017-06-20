@@ -1,0 +1,1 @@
+[[208, "universe", "level"], [308, "Way", "chamber"], [873, "Applause", "work"], [830, "WorldWide", "Allende"], [825, "universe", "environment"], [202, "way", "world"], [812, "WorldWide", "Allende"], [872, "(", "time"], [566, "Telescope", "Stasi"], [874, ")", "time"]]

@@ -1,0 +1,1 @@
+[[3611, "Philadelphia", "Audio"], [2854, "number", "power"], [2375, "food", "energy"], [2200, "food", "building"], [884, "broccoli", "coincidence"], [2224, "food", "family"], [2072, "man", "She"], [3638, "Atlanta", "Rights"], [2050, "guy", "mind"], [994, "General", "Space"]]

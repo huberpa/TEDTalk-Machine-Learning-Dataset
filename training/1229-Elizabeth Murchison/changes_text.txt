@@ -1,0 +1,1 @@
+[[1039, "cancer", "night"], [1240, "tumor", "laugh"], [174, "devil", "Coke"], [717, "cancer", "model"], [1005, "death", "opportunity"], [764, "disease", "word"], [1057, "cancer", "model"], [860, "selection", "anger"], [1249, "body", "man"], [1676, "dog", "religion"]]

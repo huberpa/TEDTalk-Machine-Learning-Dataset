@@ -1,0 +1,1 @@
+[[1433, "Shakespeare", "Atlanta"], [149, "education", "head"], [196, "education", "share"], [3619, "Royal", "Either"], [1783, "dance", "capacity"], [3184, "school", "country"], [2673, "intelligence", "training"], [184, "dinner", "sequence"], [3611, "Royal", "benign"], [1368, "Shakespeare", "Society"]]

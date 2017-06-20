@@ -1,0 +1,1 @@
+[[530, "countries", "lives"], [469, "China", "York"], [1466, "today", "fact"], [1242, "children", "means"], [378, "Wikipedia", "Egypt"], [550, "countries", "dollars"], [2190, "world", "time"], [1144, "countries", "lives"], [1117, "countries", "lives"], [2179, "world", "time"]]

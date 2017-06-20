@@ -1,0 +1,1 @@
+[[2120, "friend", "scale"], [1653, "car", "project"], [692, "minutes", "ones"], [1085, "loneliness", "placebo"], [2080, "man", "stuff"], [2346, "self-esteem", "Mall"], [2975, "world", "time"], [1357, "girl", "die"], [1597, "mind", "community"], [1342, "box", "act"]]

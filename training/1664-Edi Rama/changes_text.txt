@@ -1,0 +1,1 @@
+[[1812, "politicians", "dots"], [634, "question", "water"], [553, "poll", "nucleus"], [897, "city", "nothing"], [219, "something", "work"], [805, "policemen", "districts"], [185, "city", "process"], [1924, "change", "talk"], [1548, "people", "things"], [1895, "world", "time"]]

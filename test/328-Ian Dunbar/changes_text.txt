@@ -1,0 +1,1 @@
+[[869, "dog", "range"], [1461, "dog", "beauty"], [1222, "dog", "religion"], [996, "Puppy", "Sanford"], [3135, "kid", "red"], [2601, "kick", "homework"], [180, "dog", "range"], [2432, "dog", "race"], [1253, "park", "check"], [1833, "punishment", "sanitation"]]

@@ -1,0 +1,1 @@
+[[2880, "growth", "buy"], [890, "schools", "plants"], [1948, "kind", "use"], [2279, "state", "entire"], [2550, "equity", "proposal"], [2182, "reward", "awareness"], [1978, "state", "level"], [1268, "drugs", "communities"], [1608, "state", "war"], [1344, "D", "department"]]

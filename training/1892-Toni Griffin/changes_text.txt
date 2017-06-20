@@ -1,0 +1,1 @@
+[[1726, "city", "case"], [442, "process", "room"], [806, "migration", "acceptance"], [1049, "city", "computer"], [2208, "Detroit", "Alice"], [422, "Detroiters", "Cote"], [1243, "speculation", "stumble"], [932, "homes", "experts"], [247, "magazine", "dinner"], [151, "cities", "companies"]]

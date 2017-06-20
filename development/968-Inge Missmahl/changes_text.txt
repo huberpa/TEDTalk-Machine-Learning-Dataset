@@ -1,0 +1,1 @@
+[[1119, "Kabul", "Venter"], [103, "Afghanistan", "HIV"], [1249, "health", "city"], [292, "day", "year"], [1227, "health", "city"], [676, "side", "move"], [921, "children", "means"], [1358, "symptoms", "photographs"], [673, "side", "care"], [1233, "care", "case"]]

@@ -1,0 +1,1 @@
+[[942, "art", "figure"], [3003, "glamour", "screening"], [982, "world", "time"], [737, "portrait", "chamber"], [1885, "Croft", "Stickybot"], [458, "spell", "Hospital"], [2444, "meaning", "tree"], [246, "garage", "soup"], [2988, "glamour", "viewer"], [973, "ones", "kinds"]]

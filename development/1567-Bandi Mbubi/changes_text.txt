@@ -1,0 +1,1 @@
+[[922, "phone", "father"], [384, "Congo", "White"], [355, "war", "leave"], [538, "Congo", "Nations"], [79, "Congo", "White"], [706, "TED", "China"], [939, "phone", "size"], [680, "technology", "example"], [643, "phone", "market"], [747, "technology", "question"]]

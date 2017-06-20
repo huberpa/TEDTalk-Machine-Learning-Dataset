@@ -1,0 +1,1 @@
+[[1900, "EM", "endeavor"], [956, "car", "matter"], [1160, "car", "hope"], [4140, "analogy", "god"], [986, "car", "planet"], [3637, "progress", "kill"], [975, "car", "hope"], [4138, "reasoning", "350"], [3398, "rocket", "prize"], [519, "advent", "pediatrician"]]

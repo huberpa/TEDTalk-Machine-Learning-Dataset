@@ -1,0 +1,1 @@
+[[556, "service", "position"], [504, "Death", "intimacy"], [234, "archive", "variable"], [519, "Ostrow", "Kuria"], [170, "family", "science"], [483, "Death", "jungle"], [987, "technology", "brain"], [172, "friends", "words"], [518, "Adam", "Foundation"], [78, "year", "day"]]

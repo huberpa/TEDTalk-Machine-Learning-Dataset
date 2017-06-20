@@ -1,0 +1,1 @@
+[[195, "ball", "painting"], [204, "Rezero", "predictability"], [361, "Rezero", "hose"], [404, "person", "money"], [227, "Rezero", "predictability"], [389, "Rezero", "fusiform"], [187, "Rezero", "hose"], [320, "mode", "difficulty"], [172, "Rezero", "fusiform"], [560, "Applause", "work"]]

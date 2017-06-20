@@ -1,0 +1,1 @@
+[[1305, "education", "society"], [1244, "parent", "tail"], [322, "others", "lots"], [879, "business", "job"], [1559, "interests", "amounts"], [61, "Afghan", "Force"], [1996, "leaders", "projects"], [932, "leader", "motion"], [427, "capacity", "task"], [805, "success", "action"]]

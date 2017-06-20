@@ -1,0 +1,1 @@
+[[208, "material", "map"], [586, "people", "things"], [55, "robots", "trees"], [336, "technology", "system"], [583, "person", "point"], [54, "character", "glass"], [288, "expressions", "winds"], [141, "expressions", "winds"], [112, "expressions", "winds"], [575, "people", "things"]]

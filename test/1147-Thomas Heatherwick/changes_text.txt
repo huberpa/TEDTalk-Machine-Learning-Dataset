@@ -1,0 +1,1 @@
+[[317, "London", "California"], [55, "buildings", "teachers"], [1660, "seeds", "disorders"], [1615, "seeds", "hearts"], [1219, "power", "information"], [898, "power", "school"], [2717, ")", "time"], [1844, "Play-Doh", "Rives"], [830, "power", "sense"], [2254, "thing", "Applause"]]

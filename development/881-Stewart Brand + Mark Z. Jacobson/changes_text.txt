@@ -1,0 +1,1 @@
+[[820, "wind", "gas"], [2170, "footprint", "fan"], [90, "hands", "People"], [3202, "Beckstrom", "Runner"], [1575, "estimate", "section"], [2853, "lot", "down"], [2175, "footprint", "uncle"], [2613, "wind", "gas"], [2030, "proliferation", "anecdote"], [2291, "land", "scale"]]

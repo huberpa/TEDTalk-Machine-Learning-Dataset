@@ -1,0 +1,1 @@
+[[1321, "Bruce", "Allen"], [1172, "company", "society"], [1308, "Stage", "practicing"], [763, "face", "government"], [1266, "Stage", "occurring"], [1164, "Image", "enhancing"], [201, "Emily", "Miss"], [341, "photograph", "purpose"], [796, "skin", "carbon"], [524, "light", "body"]]

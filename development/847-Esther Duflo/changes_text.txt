@@ -1,0 +1,1 @@
+[[1807, "answer", "business"], [2499, "horse", "insight"], [2023, "percent", "talk"], [1860, "bed", "religion"], [2500, "carts", "puffs"], [644, "Malaria", "cargo"], [1698, "immunization", "toughness"], [2238, "people", "years"], [2008, "discount", "Weather"], [2131, "people", "things"]]

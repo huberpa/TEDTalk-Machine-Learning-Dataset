@@ -1,0 +1,1 @@
+[[2673, "prescription", "penguin"], [1960, "room", "moment"], [1158, "healthcare", "switch"], [1159, "system", "place"], [530, "child", "age"], [1356, "aspiration", "Language"], [805, "Geiger", "Mommy"], [496, "patients", "changes"], [1238, "healthcare", "weather"], [2664, "prescription", "joint"]]

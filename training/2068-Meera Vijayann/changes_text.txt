@@ -1,0 +1,1 @@
+[[1258, "link", "desert"], [1308, "India", "TED"], [1296, "report", "scientist"], [1977, "harassment", "salute"], [1277, "report", "foot"], [1630, "access", "test"], [1375, "piece", "top"], [1639, "empowerment", "intimacy"], [361, "bus", "soil"], [643, "one", "two"]]

@@ -1,0 +1,1 @@
+[[403, "Goering", "Fridays"], [3231, "shock", "density"], [1213, "wine", "director"], [3012, "silence", "equality"], [340, "Vermeer", "Fifth"], [2734, "Bell", "AB"], [2424, "Pollock", "Mills"], [1760, "golf", "bee"], [3362, "heaven", "crack"], [53, "Goering", "Fridays"]]

@@ -1,0 +1,1 @@
+[[2223, "robot", "effect"], [577, "Leo", "Fibonacci"], [1916, "information", "money"], [436, "Leonardo", "Jersey"], [249, "Kismet", "Anders"], [1874, "robot", "color"], [689, "buttons", "dictionaries"], [480, "Leo", "Bond"], [1978, "dialogue", "mate"], [2680, "world", "time"]]

@@ -1,0 +1,1 @@
+[[1756, "people", "things"], [568, "lots", "others"], [1493, "travel", "page"], [1238, "congestion", "maintenance"], [1270, "congestion", "stadium"], [112, "cities", "needs"], [533, "Stockholm", "Oscar"], [364, "charge", "brother"], [98, "cities", "terms"], [1627, "minds", "services"]]

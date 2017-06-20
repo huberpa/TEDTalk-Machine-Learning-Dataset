@@ -1,0 +1,1 @@
+[[882, "hand", "guy"], [332, "Sam", "Office"], [1155, "bit", "brain"], [405, "brain", "place"], [1273, "hand", "business"], [1000, "hand", "matter"], [890, "hand", "planet"], [1082, "Sam", "Rick"], [1169, "MG", "wasting"], [804, "brain", "example"]]

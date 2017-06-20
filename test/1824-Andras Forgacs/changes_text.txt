@@ -1,0 +1,1 @@
+[[1002, "leather", "slice"], [374, "animal", "surface"], [766, "sheets", "shoulders"], [169, "today", "year"], [780, "sheets", "shoulders"], [659, "cow", "refugee"], [953, "leather", "PMS"], [832, "leather", "occurring"], [1133, "food", "play"], [499, "leather", "regulation"]]

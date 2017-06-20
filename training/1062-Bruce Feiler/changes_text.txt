@@ -1,0 +1,1 @@
+[[4116, "Healey", "Shirin"], [2365, "desk", "quarter"], [1337, "friends", "words"], [3665, "girls", "reasons"], [3243, "David", "San"], [1062, "hair", "condition"], [981, "idea", "fact"], [1248, "idea", "year"], [2590, "today", "year"], [1811, "advice", "button"]]

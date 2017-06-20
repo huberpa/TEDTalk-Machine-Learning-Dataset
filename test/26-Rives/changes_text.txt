@@ -1,0 +1,1 @@
+[[264, "Laughter", "time"], [363, "emperor", "presumption"], [370, "emperor", "prognosis"], [372, "oranges", "polymers"], [263, "(", "time"], [265, ")", "time"], [548, "Laughter", "time"], [456, "emperor", "presumption"], [365, "oranges", "Pants"], [549, ")", "time"]]

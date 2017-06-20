@@ -1,0 +1,1 @@
+[[2287, "city", "computer"], [300, "life", "down"], [2577, "house", "leave"], [369, "body", "family"], [3652, "Consumers", "checkers"], [3599, "neighbors", "mountains"], [297, "life", "kind"], [1349, "town", "arm"], [1218, "building", "body"], [966, "people", "things"]]

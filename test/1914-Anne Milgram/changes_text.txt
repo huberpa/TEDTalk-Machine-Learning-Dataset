@@ -1,0 +1,1 @@
+[[1100, "people", "things"], [1615, "decisions", "beings"], [1534, "dollars", "lives"], [571, "decisions", "beings"], [775, "players", "feelings"], [740, "players", "thoughts"], [2014, "things", "years"], [1513, "jail", "bag"], [211, "case", "process"], [1263, "decision", "page"]]

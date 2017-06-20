@@ -1,0 +1,1 @@
+[[477, "bit", "start"], [123, "car", "business"], [169, "Stanford", "polio"], [69, "cars", "issues"], [258, "Francisco", "Harvard"], [523, "time", "world"], [353, "Man", "purpose"], [567, "time", "world"], [158, "car", "project"], [238, "driving", "listening"]]

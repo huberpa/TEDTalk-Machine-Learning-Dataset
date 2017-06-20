@@ -1,0 +1,1 @@
+[[1881, "people", "things"], [765, "gravity", "parking"], [1192, "sculpture", "flower"], [1745, "image", "view"], [1030, "communication", "birth"], [508, "sculpture", "needle"], [572, "Earth", "New"], [1189, "media", "patients"], [921, "structure", "animal"], [763, "center", "map"]]

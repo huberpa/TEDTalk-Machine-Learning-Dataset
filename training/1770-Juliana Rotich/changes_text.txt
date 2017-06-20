@@ -1,0 +1,1 @@
+[[965, "function", "pressure"], [131, "Africa", "New"], [1023, "country", "number"], [908, "Africa", "New"], [554, "maps", "components"], [557, "maps", "situations"], [889, "shillings", "sodas"], [139, "world", "time"], [560, "maps", "components"], [946, "Africa", "New"]]

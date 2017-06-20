@@ -1,0 +1,1 @@
+[[3000, "care", "computer"], [710, "scientists", "feet"], [2674, "capacity", "heat"], [1951, "design", "energy"], [3438, "computer", "care"], [1395, "MRI", "Third"], [919, "objects", "leaders"], [456, "designers", "moments"], [2277, "manufacturing", "status"], [2760, "work", "something"]]

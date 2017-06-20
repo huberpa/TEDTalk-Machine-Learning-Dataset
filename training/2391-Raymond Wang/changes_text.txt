@@ -1,0 +1,1 @@
+[[203, "flight", "degree"], [328, "cabin", "battlefield"], [341, "air", "walk"], [475, "plane", "dinner"], [1310, "today", "use"], [192, "guy", "hope"], [1037, "passenger", "tsunami"], [924, "passenger", "mold"], [1174, "dollars", "countries"], [996, "system", "show"]]

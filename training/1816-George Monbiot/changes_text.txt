@@ -1,0 +1,1 @@
+[[440, "word", "head"], [1591, "ecosystem", "terrorism"], [1714, "nature", "species"], [637, "nothing", "someone"], [1237, "whales", "papers"], [1219, "krill", "snowball"], [1972, "megafauna", "vine"], [2027, "lions", "reefs"], [2188, "trees", "buildings"], [1001, "rivers", "1980s"]]

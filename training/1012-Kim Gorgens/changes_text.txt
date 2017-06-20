@@ -1,0 +1,1 @@
+[[1306, "Tom", "Union"], [1230, "equipment", "warming"], [417, "Gs", "mercury"], [1363, "helmet", "honesty"], [689, "risk", "understanding"], [289, "kids", "means"], [913, "safety", "bear"], [501, "concussion", "Tonight"], [975, "football", "reform"], [680, "injury", "upset"]]

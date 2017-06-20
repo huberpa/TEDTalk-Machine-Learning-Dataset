@@ -1,0 +1,1 @@
+[[590, "mine", "student"], [979, "water", "point"], [1216, "oil", "paper"], [976, "water", "brain"], [1193, "BP", "lifting"], [442, "iron", "tribe"], [965, "mine", "sun"], [351, "steel", "sample"], [927, "mine", "tree"], [1027, "lots", "systems"]]

@@ -1,0 +1,1 @@
+[[440, "ice", "violence"], [431, "ice", "device"], [1869, "decay", "distortion"], [1215, "sea", "act"], [1420, "chemicals", "nations"], [129, "sea", "box"], [2259, "corals", "actors"], [447, "ice", "approach"], [1410, "ocean", "step"], [1342, "corals", "electronics"]]

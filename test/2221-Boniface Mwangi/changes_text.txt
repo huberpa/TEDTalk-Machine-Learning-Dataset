@@ -1,0 +1,1 @@
+[[1312, "softy", "weighting"], [1236, "art", "leave"], [774, "country", "home"], [467, "country", "everything"], [675, "jail", "theme"], [1031, "day", "talk"], [757, "images", "feet"], [760, "violence", "potential"], [190, "country", "try"], [268, "trouble", "basis"]]

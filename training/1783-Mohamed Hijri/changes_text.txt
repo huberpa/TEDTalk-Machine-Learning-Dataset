@@ -1,0 +1,1 @@
+[[907, "phosphorus", "leather"], [533, "phosphorus", "grocery"], [1843, "percent", "fact"], [797, "phosphorus", "assembly"], [1360, "today", "use"], [2258, "phosphorus", "assembly"], [420, "life", "work"], [118, "today", "idea"], [742, "percent", "idea"], [1868, "soil", "dealing"]]

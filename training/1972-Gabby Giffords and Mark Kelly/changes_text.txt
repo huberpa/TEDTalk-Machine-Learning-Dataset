@@ -1,0 +1,1 @@
+[[1005, "Gabby", "Clinton"], [1091, "Velcro", "proton"], [1622, "Tucson", "Animal"], [178, "phone", "father"], [1640, "Gabby", "Lake"], [3019, "Newtown", "Sand"], [1390, "state", "level"], [3234, "(", "time"], [1668, "Congress", "School"], [3063, "rights", "rules"]]

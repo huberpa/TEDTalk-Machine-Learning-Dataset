@@ -1,0 +1,1 @@
+[[3569, "things", "years"], [3573, "people", "things"], [3596, "things", "years"], [2367, "people", "things"], [2214, "quality", "class"], [457, "disease", "cancer"], [898, "bed", "arm"], [2432, "teachers", "buildings"], [1049, "malaria", "debate"], [584, "mosquitos", "chains"]]

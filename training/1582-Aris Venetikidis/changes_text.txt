@@ -1,0 +1,1 @@
+[[566, "street", "stay"], [1169, "map", "anyone"], [1968, "transport", "presentation"], [2384, "map", "issue"], [2141, "transport", "existed"], [1297, "city", "community"], [2419, "map", "anyone"], [2447, "transport", "attempt"], [1628, "route", "charity"], [2317, "map", "material"]]

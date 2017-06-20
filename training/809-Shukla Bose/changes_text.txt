@@ -1,0 +1,1 @@
+[[273, "salary", "Singing"], [788, "book", "history"], [568, "school", "thinking"], [1377, "food", "making"], [468, "story", "question"], [685, "English", "World"], [430, "school", "whole"], [167, "children", "means"], [553, "roof", "camp"], [117, "slums", "couples"]]

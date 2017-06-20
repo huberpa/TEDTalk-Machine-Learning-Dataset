@@ -1,0 +1,1 @@
+[[209, "school", "power"], [744, "mother", "environment"], [1061, "think", "see"], [188, "percent", "today"], [882, "books", "miles"], [869, "village", "wait"], [197, "school", "everything"], [470, "kids", "times"], [696, "children", "means"], [1091, "children", "means"]]

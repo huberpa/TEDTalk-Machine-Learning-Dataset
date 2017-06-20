@@ -1,0 +1,1 @@
+[[2151, "imagery", "pig"], [1247, "Marilyn", "Leader"], [883, "work", "Applause"], [622, "photograph", "return"], [1850, "scenes", "prisons"], [1756, "wedding", "accountability"], [1859, "windows", "meetings"], [868, "work", "something"], [465, "art", "news"], [60, "celebrity", "locomotion"]]

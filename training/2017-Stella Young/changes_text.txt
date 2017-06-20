@@ -1,0 +1,1 @@
+[[1469, "world", "time"], [730, "people", "things"], [943, "things", "years"], [933, "things", "years"], [412, "people", "things"], [921, "things", "years"], [133, "school", "money"], [528, "disability", "capability"], [1143, "lie", "airplane"], [1337, "life", "lot"]]

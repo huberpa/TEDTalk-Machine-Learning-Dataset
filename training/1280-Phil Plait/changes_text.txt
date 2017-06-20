@@ -1,0 +1,1 @@
+[[2287, "problem", "part"], [1062, "rock", "landscape"], [197, "Mt", "FGM"], [1505, "step", "morning"], [1809, "Apophis", "Sherman"], [1937, "car", "guy"], [1194, "city", "health"], [3080, "drive", "measure"], [667, "rock", "loss"], [1843, "years", "things"]]

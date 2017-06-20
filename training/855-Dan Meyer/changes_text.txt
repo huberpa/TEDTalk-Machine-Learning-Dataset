@@ -1,0 +1,1 @@
+[[526, "day", "talk"], [808, "information", "number"], [2267, "word", "name"], [1958, "someone", "nothing"], [2020, "kids", "means"], [926, "problem", "start"], [971, "problem", "brain"], [673, "way", "right"], [1610, "question", "end"], [679, "textbooks", "speeds"]]

@@ -1,0 +1,1 @@
+[[1835, "currency", "kick"], [1398, "poor", "born"], [2033, "world", "time"], [1074, "sphere", "error"], [288, "democracy", "object"], [2807, "BG", "dynamic"], [2302, "YV", "advisor"], [1201, "sphere", "Day"], [2408, "sphere", "zoom"], [986, "democracy", "code"]]

@@ -1,0 +1,1 @@
+[[121, "question", "water"], [380, "shape", "cool"], [608, "phone", "market"], [282, "weight", "prison"], [600, "phone", "week"], [364, "thing", "Applause"], [331, "thing", "something"], [81, "world", "time"], [266, "content", "math"], [101, "question", "technology"]]

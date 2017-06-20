@@ -1,0 +1,1 @@
+[[1671, "money", "country"], [1419, "organization", "compassion"], [92, "Red", "chocolate"], [373, "terrorist", "sum"], [1639, "bulk", "sympathy"], [1125, "terrorism", "factor"], [155, "people", "years"], [1950, "economy", "ocean"], [1650, "money", "thinking"], [907, "lunch", "gun"]]

@@ -1,0 +1,1 @@
+[[845, "money", "everything"], [163, "patent", "bomb"], [1131, "kind", "lot"], [1172, "patent", "bomb"], [521, "patent", "resistance"], [1048, "system", "place"], [491, "lawsuit", "optic"], [340, "patent", "burning"], [142, "settlements", "butterflies"], [298, "patent", "fiction"]]

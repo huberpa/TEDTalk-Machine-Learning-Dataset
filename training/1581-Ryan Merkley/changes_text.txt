@@ -1,0 +1,1 @@
+[[149, "web", "male"], [840, "web", "term"], [762, "web", "aid"], [102, "video", "night"], [386, "video", "cancer"], [93, "web", "pressure"], [640, "Flickr", "Susan"], [791, "web", "self"], [319, "links", "chances"], [808, "web", "worry"]]

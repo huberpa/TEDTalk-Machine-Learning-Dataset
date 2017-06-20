@@ -1,0 +1,1 @@
+[[360, "Hospital", "Argentina"], [476, "noise", "influence"], [878, "seconds", "stars"], [1331, "day", "fact"], [1264, "level", "heart"], [431, "hospitals", "activities"], [1794, "sound", "worked"], [1843, "phrase", "selection"], [1917, "(", "time"], [592, ")", "time"]]

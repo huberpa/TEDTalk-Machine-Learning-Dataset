@@ -1,0 +1,1 @@
+[[625, "Mike", "Vietnam"], [848, "thing", "right"], [119, "picture", "community"], [59, "Stacey", "serif"], [1782, "photograph", "return"], [248, "Alec", "Cargill"], [1109, "love", "point"], [380, "Stacey", "Odyssey"], [1025, "connection", "engineering"], [116, "Stacey", "Tonight"]]

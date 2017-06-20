@@ -1,0 +1,1 @@
+[[404, "mathematics", "bits"], [412, "mathematics", "bits"], [415, "mathematics", "signals"], [190, "calculus", "squeeze"], [350, "statistics", "videos"], [129, "statistics", "letters"], [348, "probability", "script"], [394, "analog", "relativity"], [103, "pyramid", "poster"], [220, "calculus", "humility"]]

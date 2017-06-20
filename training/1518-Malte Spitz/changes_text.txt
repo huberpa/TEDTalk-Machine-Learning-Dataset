@@ -1,0 +1,1 @@
+[[336, "information", "country"], [351, "phone", "size"], [43, "phone", "death"], [276, "directive", "pickup"], [1124, "information", "country"], [528, "time", "world"], [531, "phone", "size"], [651, "lawsuit", "missile"], [85, "phone", "week"], [1398, "phone", "amount"]]

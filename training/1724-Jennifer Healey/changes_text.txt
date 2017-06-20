@@ -1,0 +1,1 @@
+[[315, "car", "planet"], [643, "cars", "girls"], [1204, "robots", "conditions"], [1031, "cars", "girls"], [1050, "cars", "issues"], [168, "guy", "business"], [900, "miles", "tools"], [978, "something", "right"], [1068, "idea", "percent"], [1484, "driver", "corruption"]]

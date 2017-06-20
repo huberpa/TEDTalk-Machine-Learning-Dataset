@@ -1,0 +1,1 @@
+[[308, "dinosaurs", "ancestors"], [2347, "bird", "tomorrow"], [2391, "hand", "health"], [1272, "B-rex", "locust"], [1632, "dinosaurs", "proteins"], [2328, "hand", "answer"], [496, "story", "brain"], [108, "things", "years"], [2680, "poster", "adventure"], [2452, "hand", "book"]]

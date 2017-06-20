@@ -1,0 +1,1 @@
+[[1198, "patients", "media"], [1564, "people", "years"], [214, "societies", "streets"], [803, "people", "things"], [2896, "societies", "laws"], [331, "practices", "increases"], [482, "societies", "laws"], [2792, "children", "means"], [1367, "beer", "dress"], [1350, "Coca-Cola", "Carnegie"]]

@@ -1,0 +1,1 @@
+[[614, "something", "work"], [529, "(", "time"], [642, "day", "down"], [409, "windmill", "plasticity"], [313, "school", "thinking"], [433, "materials", "objects"], [531, ")", "time"], [595, "something", "right"], [281, "school", "help"], [266, "school", "home"]]

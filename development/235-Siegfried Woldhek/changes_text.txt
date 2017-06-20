@@ -1,0 +1,1 @@
+[[656, "age", "somebody"], [454, "faces", "adults"], [710, "Leonardo", "Alex"], [465, "faces", "elements"], [250, "self-portraits", "animators"], [179, "time", "world"], [538, "portraits", "wives"], [691, "Leonardo", "Jersey"], [756, "Leonardo", "Alex"], [267, "face", "order"]]

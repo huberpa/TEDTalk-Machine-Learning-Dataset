@@ -1,0 +1,1 @@
+[[721, "World", "relationship"], [3283, "world", "time"], [3462, "inequality", "resource"], [3085, "wealth", "communication"], [537, "inequality", "graduate"], [361, "inequality", "player"], [760, "wealth", "push"], [2996, "(", "time"], [670, "inequality", "trick"], [861, "income", "decade"]]

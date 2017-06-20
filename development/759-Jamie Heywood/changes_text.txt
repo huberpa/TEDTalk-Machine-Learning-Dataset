@@ -1,0 +1,1 @@
+[[2958, "lithium", "cartoonist"], [3106, "lithium", "snapshot"], [1259, "people", "things"], [2297, "people", "things"], [3083, "time", "world"], [2211, "line", "woman"], [2244, "line", "word"], [245, "story", "example"], [2434, "data", "women"], [2650, "time", "world"]]

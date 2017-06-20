@@ -1,0 +1,1 @@
+[[102, "book", "car"], [1634, "liberty", "duck"], [300, "persons", "volumes"], [1422, "James", "France"], [2661, "end", "water"], [2235, "culture", "area"], [1759, "right", "also"], [897, "cause", "software"], [295, "person", "love"], [745, "rights", "rules"]]

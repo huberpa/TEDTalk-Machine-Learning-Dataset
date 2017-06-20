@@ -1,0 +1,1 @@
+[[1336, "percent", "fact"], [575, "taste", "attempt"], [1591, "pleasure", "radiation"], [1169, "happiness", "safe"], [2249, "genes", "products"], [1814, "people", "years"], [1831, "wall", "hour"], [1903, "baby", "lab"], [2735, "needs", "eyes"], [1578, "system", "part"]]

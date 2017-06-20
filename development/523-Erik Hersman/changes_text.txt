@@ -1,0 +1,1 @@
+[[600, "information", "money"], [610, "information", "money"], [447, "Mumbai", "Arabia"], [664, "information", "help"], [587, "information", "home"], [330, "NGOs", "measurements"], [327, "Africa", "New"], [532, "information", "power"], [678, "information", "school"], [59, "time", "world"]]

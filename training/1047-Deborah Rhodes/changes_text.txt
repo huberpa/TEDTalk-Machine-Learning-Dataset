@@ -1,0 +1,1 @@
+[[754, "tumor", "frame"], [474, "radiologists", "dependencies"], [2977, "women", "data"], [1977, "cells", "words"], [3407, "time", "world"], [2119, "study", "share"], [3233, "cancer", "line"], [817, "cancer", "education"], [1126, "technology", "show"], [646, "breast", "consumption"]]

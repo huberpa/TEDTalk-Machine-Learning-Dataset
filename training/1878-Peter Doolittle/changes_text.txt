@@ -1,0 +1,1 @@
+[[176, "memory", "nobody"], [1673, "knowledge", "material"], [970, "conversation", "table"], [1371, "memory", "month"], [1133, "things", "years"], [568, "words", "places"], [380, "memory", "action"], [403, "memory", "Look"], [751, "right", "actually"], [1937, "life", "thing"]]

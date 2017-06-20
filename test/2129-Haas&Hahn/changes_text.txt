@@ -1,0 +1,1 @@
+[[1220, "people", "things"], [839, "river", "mission"], [56, "Cruzeiro", "Drum"], [553, "thing", "right"], [75, "Vila", "Chocolate"], [676, "kite", "discomfort"], [822, "style", "fruit"], [55, "Vila", "Empathy"], [1849, "Vila", "Nokia"], [66, "Vila", "Nokia"]]

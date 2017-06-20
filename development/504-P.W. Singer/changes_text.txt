@@ -1,0 +1,1 @@
+[[2417, "people", "things"], [3556, "creativity", "surgery"], [758, "tens", "fields"], [817, "robots", "conditions"], [177, "soldier", "storm"], [1913, "war", "art"], [2548, "war", "cell"], [2434, "people", "years"], [2239, "game", "figure"], [2797, "war", "news"]]

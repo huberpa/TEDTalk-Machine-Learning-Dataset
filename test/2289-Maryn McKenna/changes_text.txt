@@ -1,0 +1,1 @@
+[[407, "diseases", "costs"], [579, "infections", "camps"], [691, "resistance", "fiction"], [2030, "habit", "comet"], [529, "days", "problems"], [700, "resistance", "launch"], [2329, "years", "things"], [370, "people", "things"], [718, "resistance", "pair"], [1576, "antibiotics", "acts"]]

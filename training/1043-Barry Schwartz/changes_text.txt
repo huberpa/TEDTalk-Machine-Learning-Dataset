@@ -1,0 +1,1 @@
+[[1335, "person", "country"], [1784, "years", "things"], [3341, "loan", "division"], [1195, "rules", "communities"], [2600, "scripts", "simulations"], [3930, "wisdom", "faith"], [2985, "Court", "Black"], [3342, "recipients", "carriers"], [1105, "ruler", "compliment"], [368, "scripts", "migrants"]]

@@ -1,0 +1,1 @@
+[[736, "questions", "species"], [671, "teachers", "buildings"], [795, "questions", "species"], [521, "teachers", "conditions"], [385, "reading", "listening"], [620, "teachers", "jobs"], [514, "teachers", "conditions"], [214, "teachers", "conditions"], [583, "teachers", "jobs"], [800, "teachers", "buildings"]]

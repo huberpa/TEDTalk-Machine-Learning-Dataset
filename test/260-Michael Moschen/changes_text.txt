@@ -1,0 +1,1 @@
+[[1457, "finger", "gold"], [2110, "moment", "family"], [1688, "finger", "island"], [1335, "finger", "island"], [1343, "finger", "flu"], [1710, "finger", "yesterday"], [1363, "finger", "weather"], [1447, "finger", "flu"], [1718, "finger", "meat"], [1445, "finger", "meat"]]

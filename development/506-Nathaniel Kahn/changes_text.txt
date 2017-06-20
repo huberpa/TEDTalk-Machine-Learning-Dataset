@@ -1,0 +1,1 @@
+[[1403, "sense", "body"], [217, "moments", "birds"], [1111, "Louis", "Sudan"], [1093, "Man", "window"], [1514, "building", "stuff"], [1057, "Man", "photograph"], [860, "office", "software"], [1084, "architect", "hotel"], [627, "war", "learning"], [1561, "love", "bit"]]

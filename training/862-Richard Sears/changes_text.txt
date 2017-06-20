@@ -1,0 +1,1 @@
+[[84, "atoms", "figures"], [199, "oil", "growth"], [280, "oil", "death"], [1098, "abalone", "alliance"], [778, "story", "water"], [403, "oil", "buy"], [701, "century", "house"], [1358, "ideas", "cells"], [343, "oil", "death"], [1366, "technology", "place"]]

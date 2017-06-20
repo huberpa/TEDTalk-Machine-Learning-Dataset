@@ -1,0 +1,1 @@
+[[1041, "Country", "Carnegie"], [1059, "capita", "corals"], [2323, "change", "talk"], [865, "India", "TED"], [960, "infrastructure", "wealth"], [2249, "system", "question"], [2592, "India", "TED"], [80, "democracy", "conversation"], [1120, "Country", "Natural"], [2819, "direction", "race"]]

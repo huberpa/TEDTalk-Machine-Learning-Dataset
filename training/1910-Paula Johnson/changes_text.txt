@@ -1,0 +1,1 @@
+[[479, "women", "data"], [883, "disease", "everyone"], [534, "law", "robot"], [1236, "women", "data"], [1319, "genes", "products"], [1853, "women", "data"], [1298, "lung", "fruit"], [1375, "women", "data"], [2127, "grandmother", "testing"], [1898, "issue", "anyone"]]

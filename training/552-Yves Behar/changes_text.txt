@@ -1,0 +1,1 @@
+[[251, "baby", "dark"], [257, "baby", "lab"], [244, "FN", "chalkboard"], [136, "mother", "disease"], [185, "power", "information"], [133, "dismay", "midair"], [198, "lot", "kind"], [285, "motorcycle", "humidity"], [244, "FN", "farce"], [133, "dismay", "brothel"]]

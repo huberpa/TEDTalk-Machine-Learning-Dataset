@@ -1,0 +1,1 @@
+[[1205, "Da", "publisher"], [1204, "Di", "Picasso"], [2698, ")", "time"], [519, "music", "group"], [2421, "music", "face"], [1160, "music", "research"], [905, "everything", "school"], [336, "music", "woman"], [61, "Music", "scale"], [2318, "song", "career"]]

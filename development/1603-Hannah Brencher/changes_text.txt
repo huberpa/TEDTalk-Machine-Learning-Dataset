@@ -1,0 +1,1 @@
+[[369, "letters", "messages"], [414, "letters", "characters"], [172, "dozens", "guns"], [984, "Applause", "use"], [706, "love", "end"], [678, "love", "end"], [424, "people", "things"], [197, "letters", "characters"], [707, "letters", "statistics"], [679, "letters", "statistics"]]

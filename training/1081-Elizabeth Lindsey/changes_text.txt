@@ -1,0 +1,1 @@
+[[401, "palu", "Designer"], [516, "canoe", "waterfront"], [865, "society", "heart"], [1073, "island", "accident"], [668, "weather", "finger"], [1070, "canoe", "subconscious"], [373, "Mau", "spitting"], [1012, "world", "time"], [1142, "canoe", "subconscious"], [253, "world", "time"]]

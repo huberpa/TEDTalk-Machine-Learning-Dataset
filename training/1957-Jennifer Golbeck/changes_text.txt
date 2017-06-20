@@ -1,0 +1,1 @@
+[[1345, "users", "characters"], [1599, "data", "women"], [993, "people", "years"], [1029, "information", "money"], [1160, "friends", "works"], [867, "fries", "receivers"], [961, "people", "years"], [1520, "problem", "place"], [2066, "users", "messages"], [1213, "action", "nobody"]]

@@ -1,0 +1,1 @@
+[[1272, "word", "line"], [1131, "Music", "size"], [813, "language", "line"], [326, "Bird", "activating"], [1041, "word", "company"], [1913, "music", "group"], [897, "language", "education"], [2049, "language", "share"], [1368, "score", "prize"], [1437, "music", "couple"]]

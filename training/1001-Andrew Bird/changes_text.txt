@@ -1,0 +1,1 @@
+[[752, "hand", "mind"], [319, "loop", "axis"], [322, "loop", "defense"], [1053, "world", "time"], [313, "loop", "limb"], [310, "loop", "capability"], [211, "loops", "detectors"], [301, "loop", "sculpture"], [961, "Quiet", "uncharacterized"], [201, "loops", "photons"]]

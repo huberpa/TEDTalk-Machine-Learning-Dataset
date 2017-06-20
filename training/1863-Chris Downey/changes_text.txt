@@ -1,0 +1,1 @@
+[[154, "chair", "gold"], [416, "surgery", "web"], [1502, "sight", "resolution"], [286, "ear", "concern"], [829, "cities", "terms"], [1257, "lot", "Applause"], [762, "outsights", "surpluses"], [832, "places", "works"], [1082, "smell", "beat"], [200, "chair", "metal"]]

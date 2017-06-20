@@ -1,0 +1,1 @@
+[[1072, "Mars", "University"], [66, "HI-SEAS", "Bourgeoisie"], [352, "crew", "manner"], [758, "architecture", "wind"], [266, "time", "world"], [1204, "population", "team"], [386, "space", "power"], [57, "NASA", "Anderson"], [471, "project", "matter"], [144, "food", "anything"]]

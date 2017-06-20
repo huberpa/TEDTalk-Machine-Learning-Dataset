@@ -1,0 +1,1 @@
+[[230, "ideology", "shipping"], [433, "customer", "independence"], [525, "car", "business"], [714, "choice", "fly"], [532, "car", "matter"], [490, "car", "guy"], [1968, "choices", "services"], [1325, "crisis", "activity"], [888, "donor", "cocaine"], [2084, "choice", "industry"]]

@@ -1,0 +1,1 @@
+[[875, "This", "some"], [1217, "challenge", "test"], [64, "cap", "entry"], [1119, "coal", "location"], [1320, "America", "States"], [1197, "coal", "spectrum"], [234, "amount", "fish"], [1309, "solution", "situation"], [224, "amount", "death"], [1179, "technology", "question"]]

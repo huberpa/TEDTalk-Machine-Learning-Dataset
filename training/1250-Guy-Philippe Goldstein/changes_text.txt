@@ -1,0 +1,1 @@
+[[120, "weapons", "heads"], [1382, "risk", "blood"], [1414, "allies", "portraits"], [1092, "environment", "nature"], [300, "keys", "robotics"], [415, "cyberwar", "convent"], [845, "defender", "urchin"], [1138, "coordination", "Stage"], [1409, "allies", "wives"], [909, "NATO", "minorities"]]

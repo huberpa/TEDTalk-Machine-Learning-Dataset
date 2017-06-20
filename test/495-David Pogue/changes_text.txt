@@ -1,0 +1,1 @@
+[[5000, "song", "career"], [2394, "text", "term"], [226, "phone", "size"], [4916, "da", "reverse"], [3179, "messages", "risks"], [4915, "da", "microscope"], [2534, "number", "home"], [2899, "earth", "mission"], [1377, "call", "live"], [3019, "being", "doing"]]

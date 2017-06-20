@@ -1,0 +1,1 @@
+[[926, "(", "time"], [928, ")", "time"], [228, "revolution", "teacher"], [163, "book", "history"], [635, "wall", "skin"], [927, "Applause", "lot"], [736, "message", "truth"], [823, "suit", "channel"], [919, "Applause", "lot"], [514, "December", "March"]]

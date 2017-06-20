@@ -1,0 +1,1 @@
+[[597, "flow", "push"], [725, "houses", "properties"], [1292, "fact", "day"], [1569, "city", "community"], [1563, "city", "case"], [420, "sustainability", "German"], [491, "urbanization", "reconstruction"], [662, "border", "input"], [84, "crisis", "screen"], [81, "crisis", "activity"]]

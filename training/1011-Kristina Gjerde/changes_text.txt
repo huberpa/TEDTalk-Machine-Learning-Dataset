@@ -1,0 +1,1 @@
+[[2763, "management", "grade"], [2265, "Life", "motion"], [65, "place", "start"], [1304, "species", "kinds"], [2613, "resources", "computers"], [1638, "freedom", "progress"], [1250, "plastic", "race"], [487, "laws", "streets"], [1795, "species", "stories"], [1690, "Dome", "Apophis"]]

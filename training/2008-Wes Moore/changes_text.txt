@@ -1,0 +1,1 @@
+[[914, "Army", "Berlin"], [211, "school", "help"], [847, "Army", "Brown"], [2562, "leg", "engineer"], [1771, "idea", "day"], [2469, "service", "interest"], [341, "years", "things"], [2658, "chopper", "IfAfricaWasABar"], [332, "years", "things"], [2156, "people", "things"]]

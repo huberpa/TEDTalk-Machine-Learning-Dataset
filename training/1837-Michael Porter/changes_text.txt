@@ -1,0 +1,1 @@
+[[841, "resources", "computers"], [2083, "value", "economy"], [947, "resources", "computers"], [89, "time", "world"], [1037, "business", "hand"], [665, "progress", "concept"], [2077, "business", "history"], [2138, "value", "surface"], [2033, "opportunity", "buy"], [916, "profit", "hall"]]

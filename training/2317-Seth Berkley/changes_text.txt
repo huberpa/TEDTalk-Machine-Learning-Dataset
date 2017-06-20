@@ -1,0 +1,1 @@
+[[906, "Ebola", "Bang"], [280, "Ebola", "Children"], [476, "market", "phone"], [306, "Ebola", "Children"], [899, "Ebola", "Bush"], [260, "diseases", "stars"], [916, "vaccines", "classes"], [400, "vaccine", "motor"], [523, "Ebola", "Bush"], [304, "Ebola", "Children"]]

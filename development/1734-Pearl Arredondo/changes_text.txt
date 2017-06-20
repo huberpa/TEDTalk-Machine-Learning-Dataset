@@ -1,0 +1,1 @@
+[[812, "school", "country"], [889, "freedom", "service"], [378, "school", "help"], [1250, "school", "home"], [601, "kids", "means"], [634, "help", "school"], [408, "school", "thinking"], [620, "everyone", "figure"], [786, "kids", "means"], [1346, "school", "person"]]

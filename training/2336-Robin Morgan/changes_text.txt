@@ -1,0 +1,1 @@
+[[1440, "hour", "conversation"], [889, "Applause", "kind"], [1017, "wine", "statement"], [831, "brain", "place"], [1015, "glass", "corner"], [146, "men", "makes"], [506, "place", "end"], [219, "Parkinson", "Lincoln"], [1634, "hour", "conversation"], [1196, "mind", "community"]]

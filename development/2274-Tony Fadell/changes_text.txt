@@ -1,0 +1,1 @@
+[[2036, "year", "day"], [379, "time", "world"], [1001, "window", "birth"], [81, "train", "decision"], [1475, "product", "act"], [1214, "customer", "tie"], [419, "fruit", "wire"], [2648, "questions", "works"], [2879, "minds", "institutions"], [867, "job", "government"]]

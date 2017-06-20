@@ -1,0 +1,1 @@
+[[1058, "restaurant", "aging"], [1756, "waste", "pattern"], [1111, "restaurant", "smile"], [234, "waste", "teacher"], [1157, "water", "show"], [806, "food", "family"], [1934, "R", "fabric"], [764, "waste", "context"], [1169, "water", "story"], [1909, "end", "place"]]

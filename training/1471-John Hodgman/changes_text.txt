@@ -1,0 +1,1 @@
+[[588, "kitchen", "option"], [736, "iPhone", "Obama"], [747, "iPhone", "Pakistan"], [775, "books", "scientists"], [517, "monument", "heartbeat"], [589, "counter", "biologist"], [550, "home", "number"], [278, "design", "everything"], [984, "brain", "place"], [702, "iPhone", "Obama"]]

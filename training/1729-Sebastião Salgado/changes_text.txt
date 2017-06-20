@@ -1,0 +1,1 @@
+[[810, "decision", "forest"], [1308, "photograph", "window"], [1502, "information", "number"], [193, "days", "ways"], [2091, "farm", "trip"], [872, "land", "amount"], [875, "land", "growth"], [923, "development", "chance"], [1082, "year", "fact"], [2037, "water", "point"]]

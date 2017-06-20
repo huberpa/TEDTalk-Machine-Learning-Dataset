@@ -1,0 +1,1 @@
+[[1817, "prisoner", "electron"], [1786, "box", "sea"], [740, "power", "thinking"], [751, "power", "help"], [414, "things", "years"], [469, "thing", "something"], [773, "power", "space"], [672, "woman", "couple"], [1852, "movements", "sources"], [129, "boys", "planets"]]

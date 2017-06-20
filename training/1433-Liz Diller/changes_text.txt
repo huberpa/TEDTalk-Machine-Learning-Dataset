@@ -1,0 +1,1 @@
+[[177, "time", "world"], [117, "work", "look"], [989, "Mall", "shortage"], [1908, "museum", "count"], [196, "space", "power"], [346, "place", "part"], [100, "space", "power"], [1029, "space", "money"], [470, "Mall", "prospect"], [301, "space", "home"]]

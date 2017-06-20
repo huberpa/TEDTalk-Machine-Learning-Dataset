@@ -1,0 +1,1 @@
+[[661, "bracket", "BOMB"], [473, "light", "anything"], [508, "airplane", "interface"], [797, "information", "country"], [815, "approach", "drug"], [582, "materials", "schools"], [188, "vision", "door"], [806, "DNA", "test"], [167, "vision", "medicine"], [542, "future", "space"]]

@@ -1,0 +1,1 @@
+[[665, "cholera", "snake"], [1925, "people", "years"], [1248, "outbreak", "minus"], [854, "number", "money"], [1086, "water", "place"], [718, "water", "place"], [1965, "people", "years"], [1798, "story", "example"], [163, "city", "move"], [1122, "days", "problems"]]

@@ -1,0 +1,1 @@
+[[780, "planet", "book"], [3751, "Earth", "New"], [929, "life", "down"], [1654, "things", "years"], [1616, "things", "years"], [1463, "life", "lot"], [1806, "organisms", "benefits"], [3176, "life", "thing"], [525, "life", "thing"], [230, "system", "problem"]]

@@ -1,0 +1,1 @@
+[[709, "t", "chair"], [239, "Yes/No", "footwear"], [43, "critic", "attraction"], [327, "inversion", "maternity"], [456, "sugar", "ecosystem"], [250, "t", "fill"], [841, "cake", "lake"], [434, "s", "crisis"], [847, "lots", "thousands"], [789, "gull", "Sigh"]]

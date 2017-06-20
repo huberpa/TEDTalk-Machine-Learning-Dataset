@@ -1,0 +1,1 @@
+[[843, "Koran", "pizza"], [977, "Mecca", "FEMA"], [1216, "word", "nature"], [764, "Arabic", "magical"], [738, "Arabic", "external"], [1130, "God", "name"], [240, "Koran", "valley"], [705, "Koran", "sake"], [425, "Koran", "glue"], [911, "men", "days"]]

@@ -1,0 +1,1 @@
+[[520, "politicians", "environments"], [146, "attention", "understanding"], [632, "laws", "societies"], [1485, "place", "point"], [1039, "problem", "part"], [1415, "world", "time"], [922, "bathroom", "lake"], [1566, "body", "man"], [948, "juice", "coin"], [994, "years", "things"]]

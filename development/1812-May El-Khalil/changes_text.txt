@@ -1,0 +1,1 @@
+[[801, "country", "whole"], [286, "marathon", "checking"], [693, "marathon", "custom"], [133, "marathon", "deploy"], [261, "hospital", "speed"], [549, "people", "years"], [731, "people", "years"], [220, "coma", "arc"], [392, "Lebanon", "Mozart"], [523, "people", "things"]]

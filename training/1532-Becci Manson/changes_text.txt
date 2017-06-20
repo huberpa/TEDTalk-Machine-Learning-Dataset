@@ -1,0 +1,1 @@
+[[739, "people", "things"], [359, "photos", "folks"], [672, "girl", "understanding"], [766, "town", "meeting"], [1677, "photo", "painting"], [1530, "someone", "nothing"], [1169, "husband", "dad"], [1149, "photos", "bees"], [953, "water", "show"], [1586, "something", "work"]]

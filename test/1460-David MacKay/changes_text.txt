@@ -1,0 +1,1 @@
+[[612, "areas", "feet"], [3015, "building", "food"], [3052, "heat", "atmosphere"], [1707, "panels", "chips"], [85, "Britain", "member"], [1607, "energy", "building"], [1917, "meter", "pace"], [1050, "capita", "Things"], [721, "worth", "ready"], [1684, "panels", "bears"]]

@@ -1,0 +1,1 @@
+[[1627, "(", "time"], [853, "water", "brain"], [831, "water", "place"], [2699, "person", "everything"], [830, "water", "place"], [252, "day", "today"], [296, "video", "cancer"], [1395, "ink", "lamp"], [1616, "(", "time"], [1836, "word", "nature"]]

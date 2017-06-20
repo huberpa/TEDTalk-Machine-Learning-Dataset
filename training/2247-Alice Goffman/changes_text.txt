@@ -1,0 +1,1 @@
+[[1234, "school", "home"], [159, "institution", "patent"], [967, "months", "cells"], [981, "people", "years"], [2717, "people", "things"], [1030, "arrest", "mammal"], [792, "boy", "road"], [1542, "car", "planet"], [1218, "family", "science"], [1122, "Tim", "interviews"]]

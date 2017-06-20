@@ -1,0 +1,1 @@
+[[1415, "week", "death"], [384, "family", "man"], [1177, "list", "interest"], [2192, "family", "play"], [1202, "list", "progress"], [612, "family", "stuff"], [400, "family", "energy"], [3666, "matter", "hope"], [726, "programmers", "spreads"], [1818, "time", "world"]]

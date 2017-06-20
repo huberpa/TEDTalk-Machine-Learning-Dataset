@@ -1,0 +1,1 @@
+[[233, "chk", "redundancy"], [121, "meat", "chair"], [562, "animals", "ones"], [231, "chk", "insurgency"], [233, "chk", "remorse"], [121, "meat", "collection"], [233, "chk", "chemo"], [233, "chk", "amusement"], [233, "chk", "vicinity"], [562, "animals", "kinds"]]

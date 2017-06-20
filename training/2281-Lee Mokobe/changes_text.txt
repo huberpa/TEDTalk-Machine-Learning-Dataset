@@ -1,0 +1,1 @@
+[[612, "people", "years"], [348, "house", "area"], [209, "boy", "skin"], [748, "prayers", "airports"], [743, "God", "name"], [612, "people", "things"], [612, "people", "things"], [748, "prayers", "airports"], [209, "boy", "role"], [743, "God", "name"]]

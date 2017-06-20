@@ -1,0 +1,1 @@
+[[2000, "someone", "planet"], [2037, "room", "care"], [2302, "people", "things"], [1505, "applications", "clothes"], [508, "space", "home"], [1521, "percent", "idea"], [138, "piece", "woman"], [1004, "resumes", "endorphins"], [796, "son", "role"], [2524, "change", "day"]]

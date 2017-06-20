@@ -1,0 +1,1 @@
+[[633, "way", "time"], [680, "X-ray", "bend"], [144, "way", "time"], [216, "way", "world"], [672, "X-ray", "construct"], [261, "cut", "clear"], [697, "X-ray", "habit"], [286, "cut", "clear"], [157, "table", "Look"], [562, "dissection", "amputation"]]

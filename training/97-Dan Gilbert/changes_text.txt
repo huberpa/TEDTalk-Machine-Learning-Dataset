@@ -1,0 +1,1 @@
+[[1817, "happiness", "carbon"], [2523, "number", "home"], [2484, "number", "home"], [1433, "brother", "stress"], [3607, "headquarters", "siblings"], [3292, "nose", "illness"], [875, "processes", "tens"], [4477, "others", "lots"], [3071, "freedom", "career"], [2186, "number", "home"]]

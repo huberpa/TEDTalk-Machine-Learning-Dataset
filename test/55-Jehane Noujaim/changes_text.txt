@@ -1,0 +1,1 @@
+[[888, "people", "things"], [1428, "story", "show"], [103, "wish", "speed"], [2591, "world", "time"], [4711, "world", "time"], [1132, "wall", "road"], [2057, "people", "things"], [348, "time", "world"], [3395, ")", "time"], [1774, "Iraq", "Asia"]]

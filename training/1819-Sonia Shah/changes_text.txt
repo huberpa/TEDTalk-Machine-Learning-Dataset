@@ -1,0 +1,1 @@
+[[1617, "malaria", "protein"], [2477, "flu", "construction"], [1054, "poverty", "skin"], [1152, "malaria", "letter"], [183, "malaria", "saving"], [1628, "world", "time"], [1205, "year", "percent"], [1838, "problem", "start"], [95, "malaria", "target"], [657, "life", "kind"]]

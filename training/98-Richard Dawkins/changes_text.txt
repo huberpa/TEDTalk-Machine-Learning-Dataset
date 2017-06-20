@@ -1,0 +1,1 @@
+[[427, "anything", "food"], [2664, "atoms", "clothes"], [2193, "labels", "addicts"], [1024, "World", "map"], [1308, "object", "hour"], [2968, "planet", "computer"], [985, "Middle", "Brazil"], [1202, "wall", "table"], [723, "atom", "jihad"], [2121, "world", "time"]]

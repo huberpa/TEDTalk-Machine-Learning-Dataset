@@ -1,0 +1,1 @@
+[[233, "humanity", "math"], [365, "childhood", "trade"], [174, "education", "head"], [555, "anything", "science"], [263, "world", "time"], [384, "night", "share"], [1023, "world", "time"], [531, "friends", "words"], [981, "world", "time"], [1010, "toy", "bag"]]

@@ -1,0 +1,1 @@
+[[342, "life", "thing"], [798, "gift", "collection"], [355, "life", "Applause"], [771, "life", "Applause"], [150, "plane", "bear"], [581, "thing", "work"], [166, "words", "cells"], [471, "people", "things"], [122, "plane", "bank"], [118, "pilot", "limb"]]

@@ -1,0 +1,1 @@
+[[2401, "world", "time"], [2721, "borders", "outcomes"], [2681, "parliament", "violin"], [2082, "carbon", "mass"], [2719, "citizens", "colleagues"], [2758, "citizens", "colleagues"], [284, "democracy", "memory"], [1558, "mayor", "openness"], [2686, "parliament", "kit"], [2683, "citizens", "neurons"]]

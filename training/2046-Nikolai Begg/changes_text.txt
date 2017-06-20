@@ -1,0 +1,1 @@
+[[675, "people", "things"], [810, "procedures", "successes"], [992, "physics", "programs"], [1271, "place", "water"], [1337, "tip", "needle"], [1350, "tissue", "definition"], [1040, "wall", "democracy"], [222, "surgery", "worry"], [1398, "tip", "chaos"], [896, "bone", "trade"]]

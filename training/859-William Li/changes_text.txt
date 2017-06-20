@@ -1,0 +1,1 @@
+[[765, "cancer", "word"], [2849, "prostate", "mainstream"], [3208, "treatment", "fire"], [2067, "cancer", "word"], [417, "blood", "relationship"], [1212, "cancer", "nature"], [3200, "treatment", "context"], [2143, "diet", "computing"], [1034, "blood", "kid"], [3434, "cancer", "share"]]

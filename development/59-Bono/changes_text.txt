@@ -1,0 +1,1 @@
+[[1977, "stuff", "food"], [3465, "America", "Internet"], [1490, "war", "difference"], [938, "charity", "cook"], [530, "Ethiopia", "photographer"], [3267, "wishes", "investments"], [3459, "America", "States"], [3471, "America", "Internet"], [2889, "capital", "treat"], [1547, "world", "time"]]

@@ -1,0 +1,1 @@
+[[65, "population", "image"], [267, "population", "view"], [138, "population", "view"], [151, "population", "father"], [237, "labor", "lack"], [499, "future", "space"], [81, "population", "image"], [242, "wages", "producers"], [551, "future", "money"], [287, "wages", "watts"]]

@@ -1,0 +1,1 @@
+[[433, "minutes", "students"], [470, "minutes", "animals"], [160, "goal", "son"], [382, "goal", "poverty"], [256, "work", "thing"], [364, "tests", "partners"], [407, "goal", "fall"], [203, "someone", "planet"], [205, "goal", "fall"], [512, "goal", "plan"]]

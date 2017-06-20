@@ -1,0 +1,1 @@
+[[1256, "wealth", "push"], [273, "work", "Applause"], [100, "brains", "pieces"], [1068, "household", "canopy"], [197, "work", "something"], [289, "work", "thing"], [1691, "middle", "population"], [1504, "valentine", "bombard"], [2631, "time", "world"], [2433, "something", "right"]]

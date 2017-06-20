@@ -1,0 +1,1 @@
+[[1139, "people", "things"], [903, "city", "someone"], [1886, "visions", "wives"], [2161, "future", "money"], [1431, "drill", "apple"], [954, "places", "works"], [999, "people", "things"], [1654, "things", "years"], [380, "energy", "anything"], [2170, "future", "sense"]]

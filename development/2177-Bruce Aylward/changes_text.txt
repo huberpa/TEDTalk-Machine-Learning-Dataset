@@ -1,0 +1,1 @@
+[[1547, "people", "things"], [3509, "Ebola", "Bush"], [1445, "time", "world"], [3143, "challenge", "structure"], [2120, "disease", "name"], [2061, "disease", "nature"], [870, "months", "looks"], [1159, "people", "years"], [3272, "people", "years"], [590, "way", "time"]]

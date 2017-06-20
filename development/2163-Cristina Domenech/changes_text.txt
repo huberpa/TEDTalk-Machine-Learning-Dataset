@@ -1,0 +1,1 @@
+[[937, "word", "education"], [793, "party", "hearing"], [1068, "dignity", "lifestyle"], [757, "party", "nation"], [1318, "bars", "ecosystems"], [481, "logic", "judge"], [293, "poetry", "location"], [487, "logic", "courage"], [624, "prison", "identity"], [1295, "freedom", "song"]]

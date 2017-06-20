@@ -1,0 +1,1 @@
+[[217, "space", "future"], [178, "space", "everything"], [351, "garage", "burden"], [477, "space", "everything"], [163, "space", "information"], [243, "space", "home"], [80, "bedroom", "interpretation"], [195, "space", "power"], [85, "half", "bad"], [131, "space", "power"]]

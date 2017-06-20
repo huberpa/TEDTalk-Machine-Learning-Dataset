@@ -1,0 +1,1 @@
+[[536, "genes", "products"], [526, "genes", "lines"], [139, "brain", "part"], [319, "blood", "theory"], [530, "genes", "points"], [345, "cancer", "nature"], [116, "years", "things"], [380, "group", "woman"], [637, "genes", "products"], [246, "skin", "mass"]]

@@ -1,0 +1,1 @@
+[[890, "theories", "guns"], [324, "person", "everything"], [264, "person", "school"], [1160, "way", "right"], [1037, "magic", "range"], [398, "education", "nature"], [433, "master", "grid"], [813, "theory", "material"], [121, "sense", "design"], [888, "content", "physics"]]

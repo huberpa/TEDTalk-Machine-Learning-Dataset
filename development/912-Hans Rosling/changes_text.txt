@@ -1,0 +1,1 @@
+[[159, "world", "time"], [1254, "percent", "year"], [1257, "percent", "put"], [131, "people", "years"], [1264, "percent", "talk"], [1668, "world", "time"], [1152, "population", "father"], [1242, "children", "means"], [790, "]", "community"], [164, "world", "time"]]

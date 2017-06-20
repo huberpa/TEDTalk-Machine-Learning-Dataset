@@ -1,0 +1,1 @@
+[[2204, "information", "number"], [2142, "research", "line"], [854, "cancer", "nature"], [626, "cancer", "disease"], [1110, "cancer", "name"], [1993, "drug", "evolution"], [186, "revolution", "waste"], [1078, "cell", "machine"], [967, "molecule", "continent"], [772, "cancer", "head"]]

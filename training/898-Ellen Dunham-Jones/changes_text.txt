@@ -1,0 +1,1 @@
+[[2975, "places", "friends"], [860, "kids", "means"], [1480, "place", "part"], [3088, "protest", "copyright"], [2044, "mall", "grocery"], [1276, "grocery", "leather"], [3041, "blocks", "centers"], [1142, "mall", "regulation"], [2055, "mall", "consensus"], [1028, "parking", "exploration"]]

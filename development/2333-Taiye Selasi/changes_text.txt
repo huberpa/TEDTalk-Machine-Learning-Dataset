@@ -1,0 +1,1 @@
+[[426, "countries", "dollars"], [1374, "relationships", "babies"], [1916, "relationships", "laws"], [553, "experience", "play"], [352, "countries", "lives"], [778, "experience", "stuff"], [1362, "relationships", "effects"], [971, "experience", "half"], [671, "Ghana", "Gulf"], [387, "thing", "Applause"]]

@@ -1,0 +1,1 @@
+[[870, "telephone", "refugee"], [969, "code", "plant"], [887, "software", "quality"], [1276, "success", "camera"], [326, "company", "education"], [562, "right", "way"], [1455, "autism", "dollar"], [1442, "things", "years"], [769, "control", "age"], [1188, "Applause", "work"]]

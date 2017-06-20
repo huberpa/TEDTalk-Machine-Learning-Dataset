@@ -1,0 +1,1 @@
+[[2345, "people", "things"], [1470, "people", "years"], [579, "heart", "disease"], [1534, "lot", "down"], [1978, "dog", "beauty"], [2893, "Foundation", "Adam"], [2502, "boulder", "justification"], [2559, "consumer", "insight"], [461, "things", "years"], [2572, "money", "power"]]

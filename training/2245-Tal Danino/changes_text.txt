@@ -1,0 +1,1 @@
+[[229, "bacteria", "doctors"], [386, "bacteria", "studies"], [722, "cancer", "heart"], [452, "bacteria", "beings"], [545, "presence", "extent"], [172, "program", "test"], [147, "bacteria", "solutions"], [504, "tumors", "infections"], [456, "bacteria", "studies"], [592, "cancer", "education"]]

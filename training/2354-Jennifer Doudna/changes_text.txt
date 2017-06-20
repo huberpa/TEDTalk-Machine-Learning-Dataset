@@ -1,0 +1,1 @@
+[[110, "bomb", "organism"], [431, "technology", "start"], [493, "CRISPR", "immigration"], [762, "DNA", "feeling"], [1704, "properties", "movements"], [874, "DNA", "friend"], [809, "DNA", "growth"], [1417, "gene", "fix"], [837, "DNA", "physical"], [2014, "ones", "hours"]]

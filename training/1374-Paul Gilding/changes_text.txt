@@ -1,0 +1,1 @@
+[[1519, "food", "making"], [985, "idea", "talk"], [1403, "issue", "result"], [1885, "response", "cause"], [1575, "security", "hour"], [2443, "fear", "map"], [2431, "fear", "issue"], [774, "rules", "sounds"], [619, "problem", "part"], [469, "idea", "put"]]

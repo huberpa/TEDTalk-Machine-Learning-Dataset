@@ -1,0 +1,1 @@
+[[567, "Amy", "Jane"], [675, "book", "car"], [752, "silence", "exploration"], [544, "Amy", "Steven"], [264, "people", "things"], [727, "man", "food"], [727, "man", "family"], [544, "Amy", "Steven"], [675, "book", "mind"], [567, "Amy", "Steven"]]

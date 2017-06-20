@@ -1,0 +1,1 @@
+[[521, "grasslands", "skyscrapers"], [448, "water", "bit"], [2904, "carbon", "mass"], [1682, "option", "sample"], [3016, ")", "time"], [2992, ")", "time"], [1447, "grassland", "sprawl"], [402, "water", "place"], [2275, "river", "justice"], [1438, "season", "director"]]

@@ -1,0 +1,1 @@
+[[3331, "autism", "magazine"], [938, "crystallography", "hem"], [1457, "Pauling", "coping"], [467, "molecule", "joy"], [3673, "schizophrenia", "wheat"], [495, "information", "power"], [1762, "models", "cases"], [183, "school", "person"], [1424, "Linus", "Title"], [3608, "genes", "products"]]

@@ -1,0 +1,1 @@
+[[563, "wife", "student"], [702, "tissue", "bone"], [610, "knee", "wheelchair"], [1174, "surface", "attention"], [467, "meniscus", "amplifier"], [904, "ligament", "romanticize"], [1073, "tissue", "definition"], [833, "template", "auto"], [482, "donor", "spacecraft"], [398, "age", "child"]]

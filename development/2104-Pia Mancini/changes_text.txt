@@ -1,0 +1,1 @@
+[[321, "information", "country"], [671, "protests", "civilizations"], [294, "authorities", "traditions"], [117, "information", "person"], [175, "system", "question"], [864, "Internet", "line"], [1841, "space", "sense"], [1674, "decisions", "bodies"], [1663, "decisions", "bodies"], [1572, "citizens", "governments"]]

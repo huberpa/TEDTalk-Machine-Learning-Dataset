@@ -1,0 +1,1 @@
+[[1260, "people", "things"], [618, "teeth", "behaviors"], [1944, "ad", "comment"], [2416, "information", "help"], [261, "people", "things"], [589, "population", "reality"], [2479, "information", "home"], [568, "teeth", "memories"], [516, "dentists", "tones"], [2931, "test", "ocean"]]

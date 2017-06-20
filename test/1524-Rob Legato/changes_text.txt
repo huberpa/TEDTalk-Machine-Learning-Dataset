@@ -1,0 +1,1 @@
+[[3483, "shot", "region"], [2206, "Jim", "Rwanda"], [3339, "shot", "policy"], [1411, "Howard", "Brown"], [2421, "eye", "software"], [1709, "sort", "try"], [1751, "ship", "operating"], [2016, "quality", "action"], [3573, "shot", "forest"], [3043, "journey", "street"]]

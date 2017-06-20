@@ -1,0 +1,1 @@
+[[871, "DNA", "buy"], [310, "story", "water"], [568, "virus", "board"], [741, "virus", "town"], [823, "bacteria", "decisions"], [608, "DNA", "buy"], [587, "virus", "consciousness"], [373, "bacteria", "patterns"], [611, "virus", "feed"], [2056, "science", "experience"]]

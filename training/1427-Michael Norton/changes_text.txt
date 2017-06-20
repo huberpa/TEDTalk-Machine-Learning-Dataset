@@ -1,0 +1,1 @@
+[[2134, "teams", "forests"], [2217, "teams", "actions"], [2856, "microscope", "pocket"], [868, "paper", "rest"], [2254, "teams", "actions"], [2612, "teams", "notes"], [529, "money", "information"], [560, "money", "school"], [107, "fact", "use"], [856, "money", "design"]]

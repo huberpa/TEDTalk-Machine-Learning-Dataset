@@ -1,0 +1,1 @@
+[[2937, "price", "policy"], [650, "percent", "fact"], [390, "jitney", "plutonium"], [1551, "mile", "mix"], [1904, "people", "years"], [756, "transit", "lifespan"], [2967, "September", "King"], [585, "traffic", "bear"], [1055, "uberPOOL", "fireplace"], [1652, "thing", "Applause"]]

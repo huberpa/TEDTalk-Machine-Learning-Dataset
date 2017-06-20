@@ -1,0 +1,1 @@
+[[1854, "book", "planet"], [1717, "ground", "material"], [158, "tanks", "budgets"], [613, "ways", "days"], [397, "violence", "potential"], [909, "child", "matter"], [388, "violence", "approach"], [210, "Earth", "New"], [455, "force", "relationship"], [370, "violence", "drug"]]

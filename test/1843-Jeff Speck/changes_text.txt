@@ -1,0 +1,1 @@
+[[2864, "lifestyle", "ring"], [2900, "quality", "month"], [1961, "car", "planet"], [3086, "alignment", "tease"], [3055, "cities", "eyes"], [1226, "argument", "benefit"], [2536, "cities", "companies"], [2882, "something", "right"], [46, "America", "States"], [1382, "diet", "gravity"]]

@@ -1,0 +1,1 @@
+[[2779, "education", "heart"], [1576, "cholesterol", "spaceship"], [2107, "people", "years"], [836, "education", "nature"], [1251, "education", "language"], [1662, "curiosity", "root"], [2045, "people", "things"], [3279, "people", "years"], [3349, "movement", "issue"], [3298, "people", "things"]]

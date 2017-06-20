@@ -1,0 +1,1 @@
+[[1653, "books", "scientists"], [317, "countries", "dollars"], [1081, "Morgan", "Nation"], [867, "book", "planet"], [443, "countries", "dollars"], [157, "reading", "waiting"], [1349, "book", "hope"], [793, "appeal", "hook"], [777, "friends", "words"], [1508, "volunteers", "layers"]]

@@ -1,0 +1,1 @@
+[[1353, "factor", "user"], [505, "everybody", "woman"], [1930, "decision", "region"], [1541, "emotion", "management"], [1177, "people", "years"], [3508, "food", "She"], [4336, "emotions", "spaces"], [3183, "minutes", "ones"], [996, "people", "things"], [4326, "emotions", "benefits"]]

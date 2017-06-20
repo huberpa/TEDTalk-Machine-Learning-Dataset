@@ -1,0 +1,1 @@
+[[2466, "(", "time"], [165, "brain", "place"], [531, "guns", "conflicts"], [392, "gun", "vehicle"], [837, "homes", "movies"], [759, "public", "car"], [2460, "(", "time"], [727, "percent", "idea"], [778, "percentage", "concrete"], [905, "percent", "put"]]

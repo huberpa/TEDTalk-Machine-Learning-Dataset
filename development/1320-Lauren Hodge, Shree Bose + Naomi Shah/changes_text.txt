@@ -1,0 +1,1 @@
+[[2878, "disorders", "seeds"], [2463, "asthma", "reproduction"], [1421, "drug", "stand"], [1456, "problem", "place"], [2187, "pollutants", "veins"], [612, "lab", "box"], [2159, "health", "answer"], [2830, "solutions", "beings"], [856, "carcinogens", "smugglers"], [2154, "pollutants", "buys"]]

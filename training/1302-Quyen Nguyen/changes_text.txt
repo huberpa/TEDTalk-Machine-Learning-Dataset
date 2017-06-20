@@ -1,0 +1,1 @@
+[[2830, "team", "father"], [1678, "node", "purchase"], [918, "patient", "network"], [2060, "cancer", "language"], [590, "way", "time"], [1677, "lymph", "coalition"], [1643, "lymph", "penny"], [2480, "tumor", "grandfather"], [328, "sunlight", "colleague"], [1770, "gas", "career"]]

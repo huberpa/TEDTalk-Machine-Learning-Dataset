@@ -1,0 +1,1 @@
+[[1825, "disease", "cancer"], [1380, "brain", "part"], [1183, "brain", "part"], [1985, "mind", "car"], [494, "cell", "art"], [1294, "brain", "part"], [1036, "brain", "show"], [174, "mind", "matter"], [1222, "vessels", "villages"], [549, "body", "She"]]

@@ -1,0 +1,1 @@
+[[1412, "rope", "teenager"], [2696, "task", "attack"], [2503, "partner", "detail"], [2497, "partner", "jump"], [79, "religion", "meeting"], [1667, "empathy", "breath"], [564, "wolf", "apprentice"], [1209, "rope", "tsunami"], [2967, "rock", "neighborhood"], [2798, "monkeys", "clouds"]]

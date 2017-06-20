@@ -1,0 +1,1 @@
+[[898, "metaphor", "addition"], [634, "client", "mayor"], [1461, "labor", "flight"], [2763, "proscenium", "shorthand"], [2047, "architecture", "wind"], [3151, "building", "food"], [396, "years", "things"], [3619, "positions", "seats"], [544, "contracts", "poets"], [3537, "Center", "Canada"]]

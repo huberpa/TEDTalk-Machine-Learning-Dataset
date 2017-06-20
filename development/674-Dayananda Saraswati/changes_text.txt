@@ -1,0 +1,1 @@
+[[1279, "swimming", "fiction"], [1293, "cooking", "presence"], [662, "action", "quality"], [1490, "compassion", "progress"], [489, "heart", "company"], [700, "experience", "room"], [604, "compassion", "record"], [939, "happiness", "boy"], [1173, "wholeness", "activating"], [1217, "compassion", "interest"]]

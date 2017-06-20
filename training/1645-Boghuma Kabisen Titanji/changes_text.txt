@@ -1,0 +1,1 @@
+[[196, "trial", "offer"], [1110, "treatment", "finding"], [268, "trial", "visit"], [491, "countries", "lives"], [1173, "study", "woman"], [304, "trial", "visit"], [1416, "trial", "hair"], [466, "countries", "lives"], [571, "people", "things"], [429, "countries", "lives"]]

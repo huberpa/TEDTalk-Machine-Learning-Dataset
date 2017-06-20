@@ -1,0 +1,1 @@
+[[540, "forest", "page"], [1576, "moment", "side"], [1088, "fact", "day"], [1889, "cell", "house"], [1251, "power", "school"], [560, "forest", "train"], [1637, "hill", "ideology"], [1506, "email", "leadership"], [1693, "fact", "year"], [433, "fact", "idea"]]

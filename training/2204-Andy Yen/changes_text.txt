@@ -1,0 +1,1 @@
+[[1642, "Alice", "Detroit"], [1579, "Alice", "Detroit"], [1510, "Bob", "Gore"], [146, "email", "bridge"], [2248, "step", "attention"], [1614, "Alice", "Detroit"], [2060, "community", "answer"], [1451, "keys", "orders"], [1803, "account", "article"], [1623, "key", "fear"]]

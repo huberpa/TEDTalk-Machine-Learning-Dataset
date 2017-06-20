@@ -1,0 +1,1 @@
+[[627, "China", "York"], [762, "China", "TED"], [641, "China", "TED"], [1030, "school", "country"], [719, "people", "things"], [196, "father", "phone"], [1295, "school", "try"], [1398, "America", "States"], [486, "hope", "job"], [305, "sister", "article"]]

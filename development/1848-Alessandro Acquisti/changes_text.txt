@@ -1,0 +1,1 @@
+[[246, "photos", "folks"], [2549, "fight", "medicine"], [2114, "data", "women"], [1448, "friends", "places"], [698, "information", "country"], [613, "data", "women"], [1668, "information", "number"], [868, "fact", "percent"], [173, "tradeoffs", "brackets"], [204, "information", "thinking"]]

@@ -1,0 +1,1 @@
+[[112, "world", "time"], [1489, "subject", "content"], [387, "math", "price"], [1330, "people", "years"], [3143, "economy", "feeling"], [1503, "basics", "beans"], [650, "question", "ago"], [2819, "sides", "goals"], [117, "world", "time"], [3177, "knowledge", "support"]]

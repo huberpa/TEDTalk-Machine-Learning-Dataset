@@ -1,0 +1,1 @@
+[[533, "material", "relationship"], [168, "money", "everything"], [545, "resources", "groups"], [2027, "sense", "body"], [1272, "hand", "book"], [2146, "amount", "death"], [753, "state", "entire"], [1985, "sense", "food"], [1199, "body", "food"], [2308, "flow", "male"]]

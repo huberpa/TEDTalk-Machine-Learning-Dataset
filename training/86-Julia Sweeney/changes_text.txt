@@ -1,0 +1,1 @@
+[[1728, "door", "road"], [3604, "God", "India"], [1593, "poster", "pyramid"], [836, "Santa", "Council"], [2942, "women", "data"], [1458, "Virgo", "ACLU"], [2052, "water", "question"], [3017, "women", "data"], [2997, "ability", "cost"], [384, "God", "India"]]

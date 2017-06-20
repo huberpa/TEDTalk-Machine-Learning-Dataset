@@ -1,0 +1,1 @@
+[[1527, "year", "put"], [2245, "day", "idea"], [1830, "box", "product"], [3238, "lunch", "vehicle"], [3560, "National", "HIV"], [1412, "decade", "sell"], [3733, "diet", "church"], [1153, "farmers", "phones"], [2165, "schools", "plants"], [644, "food", "making"]]

@@ -1,0 +1,1 @@
+[[2406, ")", "time"], [2037, "subject", "train"], [518, "Budapest", "Harris"], [796, "bear", "letter"], [324, "poetry", "hurt"], [2400, "Applause", "life"], [1981, "time", "world"], [1717, ")", "time"], [678, "class", "month"], [197, "music", "study"]]

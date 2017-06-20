@@ -1,0 +1,1 @@
+[[2308, "E", "microscope"], [2208, "B", "demand"], [283, "(", "time"], [2247, "B", "demand"], [446, "Music", "cost"], [1648, "A", "each"], [2450, "way", "right"], [2172, "home", "number"], [440, "impulse", "ward"], [2391, "vision", "door"]]

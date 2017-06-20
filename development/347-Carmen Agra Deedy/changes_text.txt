@@ -1,0 +1,1 @@
+[[485, "story", "place"], [1248, "carport", "transposon"], [3271, "kid", "map"], [2235, "Yes", "Our"], [1127, "color", "shape"], [290, "pop", "presentation"], [3633, "Accelerator", "volcanism"], [413, "father", "team"], [4044, "mother", "disease"], [3241, "daughter", "beauty"]]

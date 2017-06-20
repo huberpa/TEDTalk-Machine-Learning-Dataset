@@ -1,0 +1,1 @@
+[[747, "students", "hours"], [162, "Grandma", "Mongolia"], [1650, "mother", "company"], [54, "day", "talk"], [1544, "machine", "area"], [1326, "energy", "making"], [1095, "growth", "surface"], [1534, "laundry", "strand"], [952, "world", "time"], [610, "laundry", "blueprint"]]

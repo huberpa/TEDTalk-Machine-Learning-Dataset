@@ -1,0 +1,1 @@
+[[3338, "Trust", "Theater"], [2219, "dinner", "planning"], [3212, "dinner", "plane"], [2454, "license", "consequence"], [1313, "sharks", "hospitals"], [326, "iceberg", "Philadelphia"], [2233, "dinner", "CO2"], [2909, "event", "temperature"], [57, "bathtub", "compliance"], [3177, "reef", "translation"]]

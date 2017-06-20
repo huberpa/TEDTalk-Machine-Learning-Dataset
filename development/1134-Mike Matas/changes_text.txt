@@ -1,0 +1,1 @@
+[[171, "book", "guy"], [415, "potential", "measure"], [536, "iPhone", "Obama"], [143, "book", "history"], [414, "wind", "architecture"], [186, "page", "humanity"], [725, ")", "time"], [106, "book", "project"], [477, "energy", "body"], [521, "iPad", "diplomacy"]]

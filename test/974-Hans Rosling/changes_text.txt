@@ -1,0 +1,1 @@
+[[1737, "Sweden", "Voice"], [2200, "axis", "capability"], [2495, "countries", "dollars"], [2671, "country", "whole"], [258, "percent", "day"], [2332, "child", "matter"], [714, "trend", "plate"], [2284, "bubble", "option"], [47, "goals", "dots"], [1100, "Africa", "New"]]

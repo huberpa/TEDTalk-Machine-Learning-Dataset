@@ -1,0 +1,1 @@
+[[639, "ballot", "disbelief"], [332, "box", "experiment"], [373, "jobs", "teachers"], [891, "vote", "bird"], [1071, "election", "cortex"], [1010, "election", "authority"], [909, "vote", "date"], [140, "things", "years"], [554, "elections", "stages"], [428, "election", "display"]]

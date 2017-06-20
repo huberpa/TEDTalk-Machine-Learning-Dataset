@@ -1,0 +1,1 @@
+[[1131, "data", "women"], [1183, "SARS", "rubble"], [1395, "phone", "amount"], [1585, "Witness", "Bring"], [962, "maps", "components"], [2574, "maps", "sides"], [2374, "phone", "deal"], [1857, "Witness", "Bring"], [2847, "thousands", "systems"], [2336, "sensors", "atoms"]]

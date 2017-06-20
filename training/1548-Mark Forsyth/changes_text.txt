@@ -1,0 +1,1 @@
+[[601, "title", "creature"], [188, "Parliament", "celebrity"], [1218, "reality", "learning"], [1212, "reality", "house"], [457, "King", "advice"], [397, "Washington", "Iraq"], [724, "President", "mouth"], [1224, "words", "looks"], [642, "foreman", "vantage"], [117, "words", "places"]]

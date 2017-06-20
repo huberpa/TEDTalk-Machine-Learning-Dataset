@@ -1,0 +1,1 @@
+[[3069, "game", "news"], [2587, "movie", "month"], [3482, "water", "question"], [904, "things", "years"], [3529, "water", "love"], [2872, "Lula", "Nagel"], [2420, "people", "years"], [290, "planets", "experiments"], [311, "planet", "hand"], [2675, "ability", "death"]]

@@ -1,0 +1,1 @@
+[[1702, "haves", "Prisoners"], [1422, "mine", "medicine"], [345, "planets", "forces"], [1827, "world", "time"], [134, "sort", "question"], [1110, "beings", "skills"], [723, "kind", "Applause"], [107, "city", "side"], [1634, "time", "world"], [2085, "being", "doing"]]

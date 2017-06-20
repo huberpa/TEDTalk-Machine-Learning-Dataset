@@ -1,0 +1,1 @@
+[[435, "images", "feet"], [939, "conflict", "surgery"], [367, "power", "money"], [453, "images", "books"], [800, "images", "feet"], [725, "image", "population"], [581, "protest", "manner"], [873, "photo", "bridge"], [471, "images", "feet"], [816, "impact", "experiment"]]

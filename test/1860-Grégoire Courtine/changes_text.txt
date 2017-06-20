@@ -1,0 +1,1 @@
+[[924, "brain", "course"], [1227, "rat", "portion"], [1032, "rat", "ownership"], [1424, "brain", "story"], [108, "Reeve", "Planck"], [1803, "array", "reef"], [1863, "locomotion", "toll"], [105, "Christopher", "Cyrus"], [1009, "system", "technology"], [1535, "system", "problem"]]

@@ -1,0 +1,1 @@
+[[662, "money", "country"], [411, "people", "years"], [480, "coffins", "knuckles"], [140, "cash", "football"], [1030, "logic", "stream"], [602, "cash", "furniture"], [461, "needs", "cities"], [1128, "aid", "term"], [743, "cash", "beer"], [321, "people", "years"]]

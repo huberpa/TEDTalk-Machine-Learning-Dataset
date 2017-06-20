@@ -1,0 +1,1 @@
+[[1540, "time", "world"], [580, "groups", "resources"], [104, "chickens", "tanks"], [1526, "time", "world"], [721, "women", "data"], [2328, "lot", "work"], [1677, "ideas", "months"], [1416, "people", "things"], [609, "I.Q", "waterfall"], [293, "life", "work"]]

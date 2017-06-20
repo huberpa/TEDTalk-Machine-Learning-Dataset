@@ -1,0 +1,1 @@
+[[715, "life", "kind"], [928, "hospital", "increase"], [1455, "oxygen", "sharing"], [1309, "oxygen", "mission"], [1298, "room", "side"], [1350, "oxygen", "river"], [1288, "oxygen", "hair"], [64, "access", "economy"], [970, "hospital", "screen"], [416, "hospital", "tree"]]

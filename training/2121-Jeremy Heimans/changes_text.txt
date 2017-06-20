@@ -1,0 +1,1 @@
+[[1237, "power", "everything"], [1543, "power", "design"], [2747, "power", "help"], [2641, "challenge", "ability"], [1260, "power", "country"], [2740, "power", "space"], [2486, "model", "nature"], [1245, "power", "sense"], [1987, "Apple", "June"], [2523, "Uber", "Guardian"]]

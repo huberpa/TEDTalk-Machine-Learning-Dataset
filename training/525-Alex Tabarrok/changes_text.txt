@@ -1,0 +1,1 @@
+[[339, "time", "world"], [450, "Sub-Saharan", "ranch"], [657, "mine", "plan"], [1071, "movies", "steps"], [1509, "century", "population"], [1756, "century", "area"], [2188, "oil", "scale"], [355, "year", "talk"], [1605, "China", "TED"], [754, "growth", "opportunity"]]

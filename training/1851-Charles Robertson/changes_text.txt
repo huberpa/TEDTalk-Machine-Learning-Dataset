@@ -1,0 +1,1 @@
+[[1215, "color", "impact"], [513, "China", "TED"], [1579, "corruption", "expression"], [561, "Africa", "New"], [1211, "democracies", "masses"], [1337, "education", "cancer"], [1732, "growth", "paper"], [1808, "growth", "ability"], [1836, "growth", "buy"], [389, "debt", "meter"]]

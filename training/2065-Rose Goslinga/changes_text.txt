@@ -1,0 +1,1 @@
+[[58, "maize", "Compare"], [39, "flower", "dioxide"], [694, "drought", "maintenance"], [613, "clouds", "customers"], [1032, "insurance", "finance"], [821, "crop", "manager"], [1049, "insurance", "curiosity"], [589, "clouds", "monkeys"], [321, "minister", "participation"], [1034, "money", "home"]]

@@ -1,0 +1,1 @@
+[[3736, "world", "time"], [3599, "project", "book"], [2660, "paper", "scale"], [1594, "places", "words"], [2057, "day", "down"], [1372, "yeah", "travel"], [3663, "photo", "definition"], [1060, "Face", "flute"], [2298, "number", "money"], [2858, "India", "TED"]]

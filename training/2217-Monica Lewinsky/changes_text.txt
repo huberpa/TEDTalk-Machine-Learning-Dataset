@@ -1,0 +1,1 @@
+[[106, "songs", "cents"], [1907, "messages", "characters"], [101, "songs", "antibiotics"], [701, "woman", "study"], [1500, "people", "things"], [303, "boss", "ignorance"], [2457, "empathy", "funding"], [224, "age", "control"], [1364, "parents", "terms"], [1904, "lifespan", "successes"]]

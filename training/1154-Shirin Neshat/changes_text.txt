@@ -1,0 +1,1 @@
+[[1234, "film", "focus"], [1382, "film", "dark"], [974, "book", "car"], [1109, "Iran", "School"], [482, "culture", "view"], [280, "government", "piece"], [1224, "film", "network"], [1487, "women", "data"], [810, "position", "version"], [606, "country", "everything"]]

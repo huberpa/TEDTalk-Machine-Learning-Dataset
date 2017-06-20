@@ -1,0 +1,1 @@
+[[329, "bone", "bridge"], [962, "camel", "Half"], [807, "species", "questions"], [1278, "NR", "thermostat"], [924, "LN", "policeman"], [496, "way", "right"], [1293, "LN", "domination"], [1282, "ones", "kinds"], [1250, "NR", "thermostat"], [2155, "Azuri", "Depot"]]

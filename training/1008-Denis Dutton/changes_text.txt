@@ -1,0 +1,1 @@
+[[1057, "landscape", "rock"], [1941, "axe", "shove"], [1041, "landscape", "neighborhood"], [491, "tastes", "towers"], [828, "tail", "hydrogen"], [1327, "Chauvet", "Wiles"], [1138, "trees", "jobs"], [2138, "beauty", "engineering"], [264, "art", "machine"], [692, "evolution", "cause"]]

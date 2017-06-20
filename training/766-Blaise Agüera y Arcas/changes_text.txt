@@ -1,0 +1,1 @@
+[[1043, "corner", "character"], [929, "right", "also"], [946, "right", "Now"], [1038, "corner", "supply"], [433, "ground", "theory"], [1019, "corner", "window"], [564, "imagery", "hum"], [1393, "time", "world"], [1420, "times", "kids"], [674, ")", "time"]]

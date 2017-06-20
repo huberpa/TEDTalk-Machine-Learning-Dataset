@@ -1,0 +1,1 @@
+[[1177, "Afghanistan", "HIV"], [1025, "success", "camera"], [1001, "daughter", "dog"], [713, "woman", "order"], [806, "school", "country"], [166, "school", "number"], [528, "life", "kind"], [738, "family", "body"], [311, "school", "try"], [1010, "success", "camera"]]

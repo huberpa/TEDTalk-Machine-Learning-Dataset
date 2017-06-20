@@ -1,0 +1,1 @@
+[[1182, "Nelson", "Vietnam"], [1222, "Pool", "bunk"], [359, "patents", "prisons"], [245, "countries", "dollars"], [589, "drugs", "communities"], [489, "dollars", "lives"], [422, "patents", "branches"], [1132, "Patent", "axe"], [140, "government", "form"], [291, "Nelson", "Seattle"]]

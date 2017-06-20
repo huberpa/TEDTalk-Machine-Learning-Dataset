@@ -1,0 +1,1 @@
+[[1284, "piece", "woman"], [1346, "piece", "government"], [1913, "London", "John"], [1609, "object", "table"], [859, "fairy", "Laptop"], [1796, "day", "today"], [105, "Leonardo", "Virginia"], [1519, "word", "company"], [1539, "way", "time"], [1600, "object", "dream"]]

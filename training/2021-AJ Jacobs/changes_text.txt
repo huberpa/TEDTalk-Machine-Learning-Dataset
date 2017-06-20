@@ -1,0 +1,1 @@
+[[941, "cousin", "loan"], [1218, "Mary", "Thomas"], [748, "Albert", "Lebanon"], [336, "tree", "bunch"], [325, "tree", "speed"], [535, "cousin", "machinery"], [403, "people", "things"], [396, "people", "years"], [969, "descendants", "contradictions"], [385, "tree", "wish"]]

@@ -1,0 +1,1 @@
+[[437, "car", "hope"], [672, "stars", "doctors"], [813, "girls", "issues"], [614, "light", "body"], [283, "planet", "nothing"], [425, "front", "company"], [619, "way", "something"], [664, "ice", "violence"], [327, "planets", "experiments"], [568, "Ice", "virtue"]]

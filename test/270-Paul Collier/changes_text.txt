@@ -1,0 +1,1 @@
+[[319, "world", "time"], [968, "aid", "surgery"], [303, "world", "time"], [368, "Europe", "World"], [1443, "run", "imagine"], [294, "region", "policy"], [1755, "checks", "acres"], [365, "country", "number"], [288, "world", "time"], [247, "world", "time"]]

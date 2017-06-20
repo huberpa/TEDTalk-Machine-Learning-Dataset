@@ -1,0 +1,1 @@
+[[505, "women", "data"], [472, "half", "case"], [1868, "lots", "guys"], [1738, "men", "days"], [1717, "man", "body"], [1746, "women", "data"], [573, "work", "lot"], [890, "family", "food"], [708, "lawyer", "defense"], [1343, "infrastructure", "birth"]]

@@ -1,0 +1,1 @@
+[[247, "life", "kind"], [2342, "airplane", "galaxy"], [2132, "Christmas", "Apple"], [243, "direction", "sell"], [262, "winds", "limbs"], [2274, "fuselage", "freelance"], [333, "altitude", "bow"], [319, "life", "thing"], [471, "ones", "animals"], [1380, "moment", "play"]]

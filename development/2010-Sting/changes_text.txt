@@ -1,0 +1,1 @@
+[[1768, "man", "food"], [2349, "day", "today"], [2707, "community", "nothing"], [3704, "S.O.S", "pesticide"], [2684, "community", "answer"], [2677, "community", "project"], [800, "months", "looks"], [3550, "world", "time"], [2471, "Mother", "Professor"], [2426, "Rolls-Royce", "Broke"]]

@@ -1,0 +1,1 @@
+[[2262, "someone", "community"], [233, "things", "years"], [1987, "L", "firewood"], [2628, "Pacific", "GPS"], [2322, "Jason", "Learning"], [2866, "camera", "software"], [181, "things", "years"], [2481, "Superhero", "precaution"], [2258, "someone", "move"], [1211, "robot", "innovation"]]

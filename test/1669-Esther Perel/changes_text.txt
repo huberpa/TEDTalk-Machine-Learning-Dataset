@@ -1,0 +1,1 @@
+[[2442, "question", "place"], [2748, "need", "say"], [1325, "partner", "spirit"], [90, "babies", "politics"], [1244, "partner", "moon"], [307, "time", "world"], [2552, "desire", "wisdom"], [3039, "order", "research"], [758, "desire", "wisdom"], [3433, "space", "number"]]

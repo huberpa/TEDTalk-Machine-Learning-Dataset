@@ -1,0 +1,1 @@
+[[2762, "Ranger", "Grove"], [1435, "dawn", "counter"], [3075, "leader", "bank"], [3096, "people", "years"], [2793, "Ranger", "Stroman"], [3093, "leader", "survival"], [2285, "force", "solution"], [2797, "promise", "grade"], [703, "shock", "hardware"], [2019, "force", "fly"]]

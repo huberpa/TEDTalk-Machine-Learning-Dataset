@@ -1,0 +1,1 @@
+[[190, "life", "kind"], [524, "life", "down"], [134, "circle", "wisdom"], [63, "farmer", "diabetes"], [517, "life", "work"], [501, "life", "work"], [145, "circle", "jump"], [488, "epiphany", "glory"], [476, "circle", "jump"], [108, "epiphany", "glory"]]

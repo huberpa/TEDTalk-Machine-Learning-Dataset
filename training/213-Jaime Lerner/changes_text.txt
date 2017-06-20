@@ -1,0 +1,1 @@
+[[76, "problem", "story"], [1478, "park", "bridge"], [445, "city", "half"], [936, "city", "picture"], [185, "city", "computer"], [988, "Rio", "General"], [73, "solution", "fly"], [267, "turtle", "Wide"], [229, "turtle", "acquisition"], [1393, "family", "She"]]

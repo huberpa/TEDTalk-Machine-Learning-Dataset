@@ -1,0 +1,1 @@
+[[218, "stuff", "anything"], [2100, "world", "time"], [2036, "countries", "lives"], [3684, "country", "everything"], [3480, "country", "thinking"], [2095, "countries", "lives"], [3110, "hearing", "conference"], [1130, "kind", "work"], [3490, "everybody", "music"], [3380, "word", "model"]]

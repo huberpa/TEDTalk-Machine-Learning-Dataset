@@ -1,0 +1,1 @@
+[[1068, "nations", "trials"], [1082, "citizens", "levels"], [545, "drones", "patents"], [746, "drone", "decrease"], [1810, "drones", "officials"], [528, "drones", "headlines"], [575, "drones", "officials"], [1848, "drones", "zones"], [1985, "Applause", "down"], [1332, "group", "government"]]

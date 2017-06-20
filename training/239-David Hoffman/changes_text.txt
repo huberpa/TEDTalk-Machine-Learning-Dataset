@@ -1,0 +1,1 @@
+[[471, "Sputnik", "Stay"], [449, "Sputnik", "Wilson"], [74, "rocket", "border"], [179, "story", "problem"], [316, "missile", "variability"], [195, "Sputnik", "Wilson"], [347, "weapons", "languages"], [359, "weapons", "statistics"], [129, "fortune", "command"], [278, "Sputnik", "Christianity"]]

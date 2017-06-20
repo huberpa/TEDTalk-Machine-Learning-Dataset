@@ -1,0 +1,1 @@
+[[1845, "children", "means"], [1037, "disease", "company"], [1492, "vaccine", "staff"], [574, "person", "information"], [672, "measles", "synapses"], [973, "threshold", "methane"], [1944, "H1N1", "Flash"], [1820, "children", "means"], [592, "time", "world"], [799, "people", "things"]]

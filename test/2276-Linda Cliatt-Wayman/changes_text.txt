@@ -1,0 +1,1 @@
+[[1869, "day", "down"], [1966, "school", "help"], [1973, "school", "money"], [754, "children", "means"], [1963, "school", "thinking"], [2017, "school", "person"], [667, "principal", "detector"], [346, "door", "skin"], [194, "Miss", "Emily"], [52, "Philadelphia", "Audio"]]

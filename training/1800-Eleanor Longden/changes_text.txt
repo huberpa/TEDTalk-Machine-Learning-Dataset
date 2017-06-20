@@ -1,0 +1,1 @@
+[[2681, "someone", "nothing"], [1241, "person", "country"], [2639, "capacity", "task"], [1286, "people", "years"], [1860, "voices", "processes"], [1609, "voices", "rates"], [960, "example", "show"], [466, "voice", "relationship"], [1988, "voices", "languages"], [75, "traffic", "motion"]]

@@ -1,0 +1,1 @@
+[[2033, "sequence", "dinner"], [3102, "music", "face"], [3191, "article", "hate"], [2595, "people", "things"], [679, "graffiti", "DVD"], [3011, "people", "years"], [2741, "hours", "kinds"], [2859, "Germany", "Does"], [1832, "estate", "cheese"], [3680, "car", "business"]]

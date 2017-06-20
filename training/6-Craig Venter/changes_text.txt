@@ -1,0 +1,1 @@
+[[1198, "DNA", "animal"], [1048, "families", "models"], [1028, "gene", "offer"], [1510, "genes", "products"], [309, "biomass", "sticking"], [1017, "families", "projects"], [1820, "smallpox", "comment"], [1662, "virus", "religion"], [916, "light", "sense"], [2361, "methane", "prosperity"]]

@@ -1,0 +1,1 @@
+[[3107, "care", "move"], [1589, "hospital", "increase"], [2535, "care", "makes"], [2880, "health", "bad"], [975, "bit", "example"], [2870, "care", "picture"], [1820, "image", "moving"], [993, "bit", "question"], [3223, "Tracey", "duet"], [171, "room", "case"]]

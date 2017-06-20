@@ -1,0 +1,1 @@
+[[4182, "thing", "work"], [2172, "New", "Earth"], [1907, "place", "end"], [424, "design", "number"], [1667, "case", "experience"], [1048, "Helvetica", "domination"], [2624, "floor", "direction"], [1036, "Helvetica", "policeman"], [2196, "New", "Earth"], [427, "design", "number"]]

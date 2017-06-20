@@ -1,0 +1,1 @@
+[[980, "day", "percent"], [1230, "art", "game"], [1025, "steel", "newspaper"], [712, "time", "world"], [827, "sculpture", "essence"], [1306, ")", "time"], [141, "paints", "deposits"], [642, "lace", "fad"], [1305, "Applause", "work"], [1304, "(", "time"]]

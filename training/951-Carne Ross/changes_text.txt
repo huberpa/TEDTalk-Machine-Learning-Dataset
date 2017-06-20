@@ -1,0 +1,1 @@
+[[2742, "business", "answer"], [2357, "Kosovo", "Edinburgh"], [2348, "Kosovo", "Roosevelt"], [3258, "case", "care"], [385, "diplomat", "yogurt"], [441, "diplomat", "suspicion"], [3311, "example", "story"], [1144, "things", "years"], [2334, "Kosovo", "Food"], [3378, "states", "meters"]]

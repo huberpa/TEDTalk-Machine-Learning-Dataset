@@ -1,0 +1,1 @@
+[[1867, "policemen", "desks"], [1607, "kids", "means"], [117, "planning", "paying"], [2877, "planning", "paying"], [831, "girl", "red"], [2578, "Nike", "Charlie"], [2328, "business", "book"], [975, "women", "data"], [2358, "business", "car"], [129, "planning", "paying"]]

@@ -1,0 +1,1 @@
+[[934, "city", "picture"], [176, "buildings", "teachers"], [161, "city", "case"], [716, "idea", "day"], [654, "building", "anything"], [510, "shape", "lab"], [858, "roof", "radiation"], [513, "void", "cane"], [1073, "cell", "learning"], [444, "connection", "dog"]]

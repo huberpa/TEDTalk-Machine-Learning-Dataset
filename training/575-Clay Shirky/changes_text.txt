@@ -1,0 +1,1 @@
+[[813, "Internet", "language"], [2820, "media", "humans"], [2781, "media", "weeks"], [1721, "China", "TED"], [1498, "school", "home"], [2915, "media", "shows"], [2572, "group", "piece"], [1505, "school", "whole"], [2376, "use", "tell"], [1953, "way", "something"]]

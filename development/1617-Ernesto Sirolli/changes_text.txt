@@ -1,0 +1,1 @@
+[[288, "people", "things"], [1574, "Drucker", "Paula"], [1080, "community", "health"], [2355, "autobiography", "plaza"], [1705, "community", "nothing"], [350, "tomatoes", "microphones"], [1986, "York", "house"], [1326, "guy", "car"], [850, "people", "things"], [2387, "word", "cancer"]]

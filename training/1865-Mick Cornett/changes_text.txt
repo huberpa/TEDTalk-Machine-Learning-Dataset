@@ -1,0 +1,1 @@
+[[1665, "groups", "resources"], [481, "Norick", "Trial"], [100, "settlers", "textures"], [280, "Oklahoma", "Lee"], [370, "banks", "strategies"], [401, "industry", "solution"], [2647, ")", "time"], [752, "city", "side"], [1159, "city", "half"], [580, "life", "lot"]]

@@ -1,0 +1,1 @@
+[[416, ")", "time"], [139, "Chinese", "drive"], [499, "water", "question"], [129, ")", "time"], [874, "Chinese", "message"], [508, "water", "example"], [1072, "time", "world"], [126, "(", "time"], [78, "YR", "cockroach"], [476, "water", "point"]]

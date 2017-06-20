@@ -1,0 +1,1 @@
+[[1590, "company", "environment"], [2673, "power", "money"], [706, "government", "piece"], [918, "power", "design"], [767, "way", "time"], [382, "power", "country"], [2631, "skills", "solutions"], [1322, "arena", "internet"], [1714, "Machine", "creator"], [2460, "narrative", "joke"]]

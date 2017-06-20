@@ -1,0 +1,1 @@
+[[303, "lot", "life"], [1253, "content", "income"], [1204, "culture", "century"], [652, "life", "kind"], [584, "mind", "hope"], [613, "elephant", "journalist"], [431, "people", "years"], [1572, "sentiments", "fractures"], [355, "climate", "attention"], [369, "climate", "access"]]

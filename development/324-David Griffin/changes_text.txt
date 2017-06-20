@@ -1,0 +1,1 @@
+[[2709, "Paul", "Israel"], [243, "David", "San"], [1265, "ivory", "Galaxy"], [978, "Nick", "Mandela"], [558, "connection", "meeting"], [695, "year", "today"], [1855, "market", "view"], [166, "ice", "anybody"], [2502, "Paul", "Boston"], [2439, "Paul", "Israel"]]

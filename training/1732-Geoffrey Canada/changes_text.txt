@@ -1,0 +1,1 @@
+[[1962, "vacation", "detection"], [2563, "thing", "Applause"], [293, "plan", "door"], [3100, "kids", "times"], [292, "business", "history"], [2759, "cliff", "maker"], [246, "millions", "tools"], [1645, "health", "city"], [1428, "people", "things"], [2468, "technology", "bit"]]

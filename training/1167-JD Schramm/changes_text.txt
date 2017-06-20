@@ -1,0 +1,1 @@
+[[292, "people", "things"], [371, "John", "California"], [324, "people", "years"], [542, "help", "person"], [379, "John", "California"], [338, "suicide", "element"], [362, "people", "years"], [429, "year", "percent"], [268, "life", "down"], [172, "Bridge", "Station"]]

@@ -1,0 +1,1 @@
+[[886, "idea", "year"], [716, "Exo", "prominence"], [956, "idea", "fact"], [1080, "(", "time"], [651, "people", "years"], [973, "government", "age"], [863, "living", "having"], [1344, "patent", "cave"], [1369, "people", "years"], [102, "year", "day"]]

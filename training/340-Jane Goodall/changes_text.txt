@@ -1,0 +1,1 @@
+[[3919, "role", "boy"], [2979, "projects", "families"], [2592, "wall", "plant"], [2401, "kind", "work"], [406, "behavior", "field"], [3409, "future", "number"], [2189, "world", "time"], [3163, "Roots", "ripples"], [2345, "world", "time"], [1010, "Gombe", "Milly"]]

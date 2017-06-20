@@ -1,0 +1,1 @@
+[[920, "bamboo", "broadcast"], [1341, "doors", "tries"], [1267, "site", "teacher"], [1031, "bamboo", "literacy"], [925, "bamboo", "sadness"], [929, "bamboo", "fever"], [986, "bamboo", "duty"], [168, "room", "case"], [161, "room", "reason"], [1556, "floor", "content"]]

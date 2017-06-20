@@ -1,0 +1,1 @@
+[[340, "kgs", "PDAs"], [531, "Solomon", "Mandarin"], [567, "Solomon", "Different"], [538, ")", "time"], [1309, "emails", "opinions"], [1493, "day", "year"], [1299, ")", "time"], [1412, "address", "web"], [1147, "email", "investment"], [312, "gold", "galaxy"]]

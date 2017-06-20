@@ -1,0 +1,1 @@
+[[549, "money", "everything"], [1473, "survey", "wine"], [3546, "gang", "loop"], [536, "gang", "loop"], [3733, "bottom", "hold"], [533, "people", "things"], [2884, "year", "talk"], [4375, "gang", "limb"], [193, "gang", "farmer"], [4003, "gang", "essence"]]

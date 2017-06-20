@@ -1,0 +1,1 @@
+[[447, "noise", "childhood"], [973, "problem", "part"], [2090, "Andrea", "Frieda"], [664, "object", "plant"], [2600, "fish", "scale"], [2545, "water", "show"], [1283, "patient", "focus"], [981, "problem", "course"], [1394, "treatment", "finding"], [390, "dB", "indictment"]]

@@ -1,0 +1,1 @@
+[[319, "love", "point"], [275, "love", "bit"], [551, "love", "point"], [796, "brain", "love"], [1701, "addiction", "counter"], [2465, "love", "question"], [1535, "drive", "violence"], [280, "love", "water"], [3008, "guy", "book"], [3070, "side", "case"]]

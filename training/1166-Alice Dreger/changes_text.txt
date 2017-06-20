@@ -1,0 +1,1 @@
+[[2066, "concept", "yeah"], [2291, "concept", "kill"], [304, "people", "things"], [2344, "nature", "disease"], [1980, "Fathers", "Brits"], [297, "people", "years"], [341, "people", "things"], [323, "people", "things"], [665, "glands", "profiles"], [2820, "months", "looks"]]

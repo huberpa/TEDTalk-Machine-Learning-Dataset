@@ -1,0 +1,1 @@
+[[531, "country", "power"], [1924, "guy", "history"], [1904, "guy", "matter"], [1169, "color", "experiment"], [508, "kind", "Applause"], [2566, "Uncle", "Cohen"], [348, "street", "device"], [1178, "color", "innovation"], [881, "default", "automobile"], [2517, "holidays", "festivals"]]

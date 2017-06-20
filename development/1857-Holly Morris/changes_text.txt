@@ -1,0 +1,1 @@
+[[228, "zone", "institution"], [903, "kind", "use"], [403, "zone", "wood"], [1260, "truth", "evidence"], [1033, "Health", "Paris"], [1365, "radiation", "staff"], [1159, "connection", "mom"], [1052, "number", "school"], [575, "residents", "ships"], [1305, "years", "things"]]

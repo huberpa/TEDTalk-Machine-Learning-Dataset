@@ -1,0 +1,1 @@
+[[623, "cohorts", "Makers"], [1522, "money", "country"], [1121, "care", "computer"], [404, "money", "information"], [1137, "percent", "use"], [163, "costs", "doctors"], [847, "program", "climate"], [412, "investors", "panels"], [100, "prison", "identity"], [534, "services", "decades"]]

@@ -1,0 +1,1 @@
+[[686, "age", "everybody"], [219, "ethnicity", "temperate"], [2898, "democracy", "movie"], [510, "technologies", "books"], [2184, "mistakes", "teams"], [718, "age", "control"], [1716, "Pakistan", "Obama"], [1500, "example", "water"], [1548, "Islam", "lets"], [1712, "leaders", "cases"]]

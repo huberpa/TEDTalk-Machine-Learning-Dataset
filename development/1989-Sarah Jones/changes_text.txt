@@ -1,0 +1,1 @@
+[[2586, "baldness", "Complex"], [872, "Sotomayor", "WWF"], [752, "Allende", "Bandura"], [2136, "women", "data"], [2596, "thing", "Applause"], [1060, "God", "name"], [1797, "organs", "symptoms"], [751, "Isabel", "Bina"], [491, "microchips", "hoods"], [1037, "God", "India"]]

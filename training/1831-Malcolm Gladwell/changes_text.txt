@@ -1,0 +1,1 @@
+[[2229, "combat", "magnitude"], [2271, "thing", "work"], [2687, "people", "things"], [1290, "David", "San"], [229, "Israel", "Boston"], [2674, "acromegaly", "hyperbole"], [528, "Philistines", "libertarians"], [1486, "cords", "generators"], [1779, "Goliath", "Rob"], [461, "ridge", "zoo"]]

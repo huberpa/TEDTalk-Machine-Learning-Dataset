@@ -1,0 +1,1 @@
+[[536, "newsprint", "discotheque"], [235, "magazine", "hate"], [100, "media", "changes"], [520, "newsprint", "discotheque"], [594, "week", "view"], [113, "viewer", "joint"], [408, "Singapore", "Society"], [484, "something", "right"], [541, "sun", "bunch"], [456, "diary", "castle"]]

@@ -1,0 +1,1 @@
+[[1234, "Humanae", "punishing"], [1345, "country", "whole"], [1354, "country", "power"], [1224, "project", "mind"], [585, "background", "childhood"], [433, "Spaniard", "hazy"], [915, "people", "years"], [360, "friends", "words"], [169, "coffee", "visit"], [1192, "Humanae", "Protocol"]]

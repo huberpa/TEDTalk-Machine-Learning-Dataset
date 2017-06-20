@@ -1,0 +1,1 @@
+[[2314, "people", "things"], [2320, "things", "years"], [2876, "things", "years"], [850, "Spain", "Turkey"], [4221, "search", "forest"], [1668, "time", "world"], [1032, "charities", "struggles"], [2407, "Deskbar", "quadcopter"], [1630, "Orkut", "Ramadan"], [4084, "money", "school"]]

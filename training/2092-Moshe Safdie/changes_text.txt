@@ -1,0 +1,1 @@
+[[512, "street", "guess"], [538, "community", "health"], [453, "Manhattan", "Voice"], [202, "building", "energy"], [204, "Beijing", "Bay"], [229, "Beijing", "Bay"], [641, "housing", "technique"], [483, "buildings", "conditions"], [713, "realm", "footprint"], [459, "Manhattan", "Sweden"]]

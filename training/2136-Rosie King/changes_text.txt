@@ -1,0 +1,1 @@
+[[385, "world", "time"], [938, "people", "things"], [398, "mind", "project"], [1079, "sister", "Everybody"], [365, "world", "time"], [280, "people", "years"], [191, "people", "things"], [916, "people", "years"], [181, "people", "years"], [873, "people", "things"]]

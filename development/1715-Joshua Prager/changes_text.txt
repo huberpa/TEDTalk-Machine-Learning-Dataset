@@ -1,0 +1,1 @@
+[[2741, "man", "energy"], [2255, "crash", "housing"], [752, "Abed", "qualified"], [2257, "Abed", "programmed"], [2701, "Abed", "programmed"], [2735, "man", "food"], [1007, "Abed", "programmed"], [1604, "people", "years"], [661, "Abed", "qualified"], [3064, "thing", "Applause"]]

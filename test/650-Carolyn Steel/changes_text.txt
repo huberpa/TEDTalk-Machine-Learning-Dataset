@@ -1,0 +1,1 @@
+[[89, "food", "making"], [2043, "food", "play"], [3024, "part", "problem"], [2972, "way", "something"], [3091, "food", "anything"], [2703, "people", "years"], [1652, "city", "reason"], [1270, "fish", "opportunity"], [1262, "course", "problem"], [2012, "food", "play"]]

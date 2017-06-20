@@ -1,0 +1,1 @@
+[[2625, "time", "world"], [2037, "nothing", "answer"], [433, "home", "power"], [1199, "home", "money"], [2246, "minute", "wait"], [229, "world", "time"], [1238, "home", "design"], [2188, "Applause", "kind"], [2354, "class", "Look"], [1352, "bag", "title"]]

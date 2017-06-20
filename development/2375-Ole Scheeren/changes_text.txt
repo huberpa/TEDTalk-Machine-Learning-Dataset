@@ -1,0 +1,1 @@
+[[987, "Beijing", "Bay"], [263, "structures", "lights"], [1835, "building", "sense"], [992, "broadcast", "Philadelphia"], [1741, "planes", "airplanes"], [2053, "space", "number"], [681, "clusters", "streams"], [1831, "building", "sense"], [1070, "building", "anything"], [166, "buildings", "teachers"]]

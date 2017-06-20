@@ -1,0 +1,1 @@
+[[106, "paper", "land"], [2423, "thing", "life"], [1348, "question", "story"], [443, "problem", "bit"], [462, "problem", "show"], [2632, "prevention", "donor"], [3849, "world", "time"], [2069, "health", "bad"], [3972, "things", "years"], [3227, "climate", "attention"]]

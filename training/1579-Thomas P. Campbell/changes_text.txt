@@ -1,0 +1,1 @@
+[[1247, "museum", "alternative"], [1974, "galleries", "firms"], [1777, "museum", "alternative"], [1699, "show", "example"], [1398, "summer", "surgery"], [210, "Bacchanal", "replicates"], [372, "art", "cell"], [1684, "show", "water"], [298, "art", "difference"], [2456, "Applause", "work"]]

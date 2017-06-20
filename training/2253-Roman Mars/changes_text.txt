@@ -1,0 +1,1 @@
+[[3295, "city", "computer"], [2107, "city", "reason"], [2474, "flag", "restaurant"], [1736, "design", "energy"], [1349, "Francisco", "Center"], [2511, "flag", "Number"], [87, "design", "home"], [2467, "Milwaukee", "Son"], [1134, "flag", "restaurant"], [3283, "things", "years"]]

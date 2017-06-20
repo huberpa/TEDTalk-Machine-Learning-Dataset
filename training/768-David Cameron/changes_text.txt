@@ -1,0 +1,1 @@
+[[1552, "government", "group"], [1942, "police", "sorts"], [2298, "people", "things"], [1724, "revolution", "record"], [1332, "way", "something"], [1455, "people", "things"], [2052, "people", "things"], [934, "weeks", "media"], [1895, "police", "pieces"], [1353, "way", "time"]]

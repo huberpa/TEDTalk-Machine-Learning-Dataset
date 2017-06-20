@@ -1,0 +1,1 @@
+[[1386, "world", "time"], [356, "years", "things"], [602, "home", "design"], [2367, "course", "story"], [841, "sense", "body"], [847, "sense", "making"], [1190, "home", "sense"], [835, "sense", "design"], [2553, "place", "end"], [565, "home", "sense"]]

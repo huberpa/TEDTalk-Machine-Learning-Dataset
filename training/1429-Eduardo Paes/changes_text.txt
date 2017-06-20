@@ -1,0 +1,1 @@
+[[376, "cities", "companies"], [364, "things", "years"], [502, "pictures", "groups"], [2388, "city", "case"], [1521, "place", "end"], [773, "people", "years"], [748, "people", "things"], [1003, "lines", "points"], [763, "people", "years"], [1452, "favelas", "axes"]]

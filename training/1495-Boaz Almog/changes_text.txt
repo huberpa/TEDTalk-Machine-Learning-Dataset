@@ -1,0 +1,1 @@
+[[724, "superconductor", "harming"], [237, "effect", "type"], [461, "field", "surface"], [497, "strands", "returns"], [202, "energy", "man"], [337, "strands", "returns"], [763, "superconductor", "harming"], [132, "resistance", "swimming"], [508, "fluxons", "leashes"], [350, "strands", "returns"]]

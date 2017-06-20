@@ -1,0 +1,1 @@
+[[1058, "surpluses", "outsights"], [2849, "food", "sense"], [2882, "sake", "pizza"], [441, "food", "energy"], [1242, "biscuits", "flamingos"], [409, "food", "body"], [719, "country", "thinking"], [723, "country", "whole"], [2724, "waste", "list"], [355, "waste", "compassion"]]

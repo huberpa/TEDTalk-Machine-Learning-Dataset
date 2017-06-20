@@ -1,0 +1,1 @@
+[[249, "patients", "humans"], [909, "home", "power"], [546, "shoulder", "repeat"], [1069, "CM", "seatbelt"], [984, "Cosmin", "eduction"], [519, "software", "anybody"], [612, "exercises", "symmetries"], [489, "game", "learning"], [594, "therapist", "parenting"], [205, "therapy", "organism"]]

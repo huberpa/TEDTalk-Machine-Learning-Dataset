@@ -1,0 +1,1 @@
+[[649, "time", "world"], [262, "time", "world"], [320, "round", "camp"], [1647, "mind", "matter"], [1705, "mind", "community"], [905, "percent", "day"], [1275, "way", "time"], [1261, "life", "kind"], [1638, "mind", "hope"], [593, "things", "years"]]

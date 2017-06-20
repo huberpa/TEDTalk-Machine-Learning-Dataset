@@ -1,0 +1,1 @@
+[[783, "state", "difference"], [735, "state", "war"], [741, "light", "energy"], [774, "state", "game"], [1523, "world", "time"], [1533, "world", "time"], [129, "miles", "millions"], [491, "room", "reason"], [1281, "energy", "sense"], [880, "width", "disc"]]

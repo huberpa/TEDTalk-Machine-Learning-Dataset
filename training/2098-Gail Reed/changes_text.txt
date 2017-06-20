@@ -1,0 +1,1 @@
+[[1018, "crisis", "sun"], [1567, "hospital", "wife"], [1182, "Cuba", "Dave"], [295, "health", "bad"], [766, "school", "number"], [1030, "health", "city"], [2111, "work", "kind"], [367, "disaster", "invention"], [105, "doctors", "costs"], [830, "ELAM", "grandma"]]

@@ -1,0 +1,1 @@
+[[1667, "person", "everything"], [1158, "moment", "anything"], [1679, "person", "help"], [1669, "understanding", "starting"], [1059, "years", "things"], [165, "things", "years"], [1352, "people", "things"], [1656, "person", "everything"], [1501, "fear", "watch"], [1681, "understanding", "giving"]]

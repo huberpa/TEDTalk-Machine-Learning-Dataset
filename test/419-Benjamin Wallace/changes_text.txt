@@ -1,0 +1,1 @@
+[[2338, "wine", "decline"], [1389, "oil", "cost"], [348, "wine", "drinking"], [149, "world", "time"], [2087, "car", "hand"], [358, "wine", "explanation"], [2930, "wine", "season"], [361, "world", "time"], [2902, "wine", "explanation"], [1858, "jet", "integration"]]

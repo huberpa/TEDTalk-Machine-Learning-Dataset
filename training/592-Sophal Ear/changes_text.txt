@@ -1,0 +1,1 @@
+[[721, "girls", "cars"], [728, "boys", "degrees"], [384, "money", "information"], [618, "Vietnamese", "transactions"], [712, "Vietnamese", "cliffs"], [396, "money", "home"], [999, "Cambodia", "Garden"], [558, "chance", "center"], [262, "Khmer", "Action"], [723, "names", "folks"]]

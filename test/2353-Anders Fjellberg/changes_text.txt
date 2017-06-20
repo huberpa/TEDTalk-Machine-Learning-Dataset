@@ -1,0 +1,1 @@
+[[2143, "story", "question"], [1786, "grass", "dive"], [1304, "Damascus", "Principle"], [2063, "phone", "size"], [2184, "life", "thing"], [2571, "time", "world"], [2536, "Tomm", "Bartok"], [2558, "time", "world"], [1471, "Channel", "Change"], [1828, "sisters", "prices"]]

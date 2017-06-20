@@ -1,0 +1,1 @@
+[[2033, "engineering", "female"], [2179, "Dylan", "Armstrong"], [1087, "treatment", "sleep"], [1509, "regions", "figures"], [1902, "Doctor", "controversy"], [484, "studies", "bodies"], [751, "school", "home"], [821, "condition", "failure"], [2801, "children", "means"], [1654, "world", "time"]]

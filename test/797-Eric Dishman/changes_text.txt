@@ -1,0 +1,1 @@
+[[1787, "hospital", "speed"], [3613, "something", "thing"], [1898, "mainframe", "league"], [1818, "mainframe", "fabrication"], [2563, "home", "country"], [3411, "aging", "traveling"], [1040, "years", "things"], [1907, "healthcare", "release"], [2562, "nursing", "migraine"], [3561, "reform", "beer"]]

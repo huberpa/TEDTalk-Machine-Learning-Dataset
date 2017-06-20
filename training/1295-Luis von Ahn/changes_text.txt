@@ -1,0 +1,1 @@
+[[938, "text", "event"], [3474, "people", "years"], [3558, "translation", "fraction"], [2396, "translation", "expectancy"], [1257, "word", "cancer"], [884, "page", "train"], [1086, "words", "looks"], [2329, "languages", "soldiers"], [874, "book", "guy"], [3812, "business", "hand"]]

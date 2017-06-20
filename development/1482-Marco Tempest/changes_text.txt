@@ -1,0 +1,1 @@
+[[142, "Nikola", "Aveling"], [673, "Nikola", "reboot"], [133, "Tesla", "Kiribati"], [143, "Tesla", "Yale"], [154, "Tesla", "Kiribati"], [344, "idea", "put"], [364, "age", "control"], [388, "electricity", "freedom"], [564, "MT", "applause"], [272, "NT", "instantaneous"]]

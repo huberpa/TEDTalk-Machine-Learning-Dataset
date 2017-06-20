@@ -1,0 +1,1 @@
+[[82, "Michelangelo", "Galapagos"], [971, "land", "fish"], [794, "surface", "program"], [1403, "tree", "screen"], [1645, "evolution", "measure"], [2355, "light", "play"], [244, "skin", "happiness"], [951, "tree", "meaning"], [1188, "material", "blood"], [2165, "silkworm", "G."]]

@@ -1,0 +1,1 @@
+[[475, "fish", "land"], [56, "fishermen", "winners"], [1915, "fish", "scale"], [773, "countries", "dollars"], [1265, "fish", "size"], [1951, "fish", "ability"], [2035, "snapper", "autopilot"], [1576, "carbon", "sex"], [572, "areas", "numbers"], [491, "fish", "cost"]]

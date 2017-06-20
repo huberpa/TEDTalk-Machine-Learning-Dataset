@@ -1,0 +1,1 @@
+[[1200, "city", "bad"], [370, "chemical", "glass"], [341, "bag", "capitalism"], [800, "city", "process"], [1152, "city", "half"], [646, "limestone", "TEDsters"], [806, "Venice", "Philip"], [1196, "architecture", "wind"], [1247, "technology", "example"], [694, "block", "sequence"]]

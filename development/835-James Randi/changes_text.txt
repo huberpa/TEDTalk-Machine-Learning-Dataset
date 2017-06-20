@@ -1,0 +1,1 @@
+[[95, "magician", "hop"], [84, "conjurer", "tembere"], [1908, "television", "temperature"], [1016, "Granny", "Agriculture"], [2419, "Homeopathy", "Sheriff"], [3045, "people", "years"], [2439, "pills", "origins"], [325, "glasses", "physicists"], [2371, "people", "years"], [2609, ")", "time"]]

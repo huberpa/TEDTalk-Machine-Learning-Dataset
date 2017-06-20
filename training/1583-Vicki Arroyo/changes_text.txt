@@ -1,0 +1,1 @@
+[[130, "homes", "movies"], [983, "Chicago", "France"], [1098, "roofs", "Others"], [423, "losses", "textbooks"], [231, "changes", "patients"], [686, "systems", "guys"], [1646, "experts", "homes"], [636, "others", "thousands"], [1711, "water", "show"], [1349, "outfall", "Villa"]]

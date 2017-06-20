@@ -1,0 +1,1 @@
+[[988, "fear", "audience"], [1649, "fears", "fuels"], [1485, "fears", "mammals"], [1577, "fears", "mammals"], [2236, "future", "money"], [1195, "fears", "heroes"], [1033, "fears", "fuels"], [1863, "men", "makes"], [1618, "fears", "strangers"], [1065, "plane", "mouse"]]

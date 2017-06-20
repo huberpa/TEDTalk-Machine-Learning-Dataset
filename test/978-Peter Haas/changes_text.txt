@@ -1,0 +1,1 @@
+[[1025, "way", "time"], [503, "building", "energy"], [1110, "disaster", "opinion"], [62, "terror", "expertise"], [366, "buildings", "trees"], [831, "right", "Now"], [83, "Haiti", "Wall"], [1027, "Haiti", "Wall"], [215, "buildings", "models"], [1057, "building", "anything"]]

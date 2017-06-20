@@ -1,0 +1,1 @@
+[[486, "patient", "network"], [166, "car", "job"], [227, "race", "board"], [480, "bit", "course"], [949, "hospital", "wish"], [999, "data", "women"], [680, "child", "order"], [193, "car", "planet"], [203, "car", "book"], [797, "data", "women"]]

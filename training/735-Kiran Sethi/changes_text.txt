@@ -1,0 +1,1 @@
+[[912, "Sethi", "Yerkes"], [1447, "Yes", "amount"], [1360, "Hyderabad", "Gould"], [1366, "Woman", "Voice"], [761, "city", "someone"], [1455, "Audience", "birth"], [669, "Riverside", "Biosphere"], [916, "city", "nothing"], [952, "city", "picture"], [676, "children", "means"]]

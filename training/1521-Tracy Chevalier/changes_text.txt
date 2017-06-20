@@ -1,0 +1,1 @@
+[[789, "face", "government"], [1562, "time", "world"], [2676, "George", "Kenya"], [93, "gallery", "Part"], [2852, "George", "Kenya"], [1548, "time", "world"], [2564, "doublet", "Angelina"], [289, "thing", "life"], [1886, "painting", "tissue"], [490, "painting", "background"]]

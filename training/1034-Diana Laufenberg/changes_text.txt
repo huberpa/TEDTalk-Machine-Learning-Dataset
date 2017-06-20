@@ -1,0 +1,1 @@
+[[404, "government", "matter"], [812, "school", "home"], [1198, "information", "space"], [919, "life", "thing"], [496, "election", "doubt"], [1111, "school", "power"], [1208, "information", "power"], [626, "kids", "times"], [458, "front", "company"], [1896, "learning", "seeing"]]

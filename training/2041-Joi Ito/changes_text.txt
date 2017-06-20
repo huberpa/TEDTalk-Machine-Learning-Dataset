@@ -1,0 +1,1 @@
+[[1272, "phones", "creatures"], [2393, "plan", "goal"], [1265, "cell", "game"], [1520, "box", "act"], [290, "data", "women"], [1351, "software", "success"], [747, "cost", "opportunity"], [1542, "manufacturing", "tradition"], [1368, "software", "anybody"], [1304, "cell", "difference"]]

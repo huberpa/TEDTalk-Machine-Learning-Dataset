@@ -1,0 +1,1 @@
+[[336, "world", "time"], [496, "someone", "nothing"], [2277, "Hejaz", "Male"], [535, "world", "time"], [1904, "Kurdistan", "Style"], [1418, "zone", "advice"], [2177, "West", "Most"], [3109, "currency", "vulnerability"], [2448, "oil", "ability"], [591, "people", "years"]]

@@ -1,0 +1,1 @@
+[[1106, "song", "concept"], [833, "song", "series"], [675, "blues", "giants"], [704, "baby", "shape"], [700, "baby", "effect"], [640, "Mama", "jealousy"], [1117, "song", "freedom"], [931, "song", "series"], [936, "song", "electricity"], [702, "baby", "product"]]

@@ -1,0 +1,1 @@
+[[2000, "mountain", "dad"], [296, "building", "She"], [956, "information", "number"], [2267, "Mall", "attraction"], [1515, "hill", "household"], [757, "downtown", "branch"], [2858, "beauty", "engineering"], [2373, "peace", "town"], [597, "generating", "arguing"], [322, "island", "satellite"]]

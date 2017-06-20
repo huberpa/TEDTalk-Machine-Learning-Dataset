@@ -1,0 +1,1 @@
+[[888, "blueprints", "vacations"], [753, "bricks", "crises"], [1198, "computing", "transportation"], [688, "computing", "shame"], [200, "anything", "experience"], [1012, "chain", "GDP"], [1016, "element", "presentation"], [1030, "chain", "civilization"], [506, "angles", "clues"], [681, "gate", "norm"]]

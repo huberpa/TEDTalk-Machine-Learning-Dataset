@@ -1,0 +1,1 @@
+[[4438, "work", "thing"], [2881, "people", "things"], [425, "work", "kind"], [3720, "people", "things"], [557, "percent", "fact"], [1634, "something", "work"], [3940, "time", "world"], [3977, "things", "years"], [421, "people", "things"], [4428, "question", "show"]]

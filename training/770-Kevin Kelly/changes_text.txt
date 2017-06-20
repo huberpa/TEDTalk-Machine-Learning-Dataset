@@ -1,0 +1,1 @@
+[[1656, "force", "relationship"], [1512, "gadgets", "cans"], [1229, "change", "put"], [430, "way", "time"], [354, "stuff", "energy"], [3163, "possibilities", "facts"], [1888, "energy", "man"], [2153, "cells", "months"], [1291, "world", "time"], [2843, "idea", "talk"]]

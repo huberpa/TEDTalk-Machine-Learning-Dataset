@@ -1,0 +1,1 @@
+[[3310, "universe", "mother"], [3095, "universe", "environment"], [2287, "example", "water"], [3125, "universe", "30"], [3709, "Benoit", "Edith"], [3092, "candidate", "terrain"], [2818, "universe", "disease"], [2856, "universe", "everyone"], [3870, "Applause", "life"], [2793, "Well", "even"]]

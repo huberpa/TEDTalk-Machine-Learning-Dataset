@@ -1,0 +1,1 @@
+[[2112, "spider", "harvest"], [2509, "spider", "reputation"], [1923, "spiders", "wives"], [1333, "silk", "survey"], [896, "silk", "beach"], [317, "spiders", "courageous"], [1332, "spider", "reputation"], [837, "silk", "decline"], [1799, "capture", "player"], [2263, "spider", "smoking"]]

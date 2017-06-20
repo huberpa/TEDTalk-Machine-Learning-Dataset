@@ -1,0 +1,1 @@
+[[2265, "object", "sex"], [256, "happiness", "son"], [3537, "Tibet", "Medicine"], [2895, "people", "things"], [1940, "mirror", "flag"], [1553, "conditions", "robots"], [891, "something", "right"], [2071, "training", "reading"], [1192, "happiness", "carbon"], [721, "pleasure", "singing"]]

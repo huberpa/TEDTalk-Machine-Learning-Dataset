@@ -1,0 +1,1 @@
+[[747, "garment", "dorm"], [766, "jacket", "immortality"], [1192, "Applause", "down"], [772, "word", "disease"], [577, "home", "thinking"], [890, "file", "actor"], [116, "pieces", "police"], [617, "night", "model"], [786, "name", "nature"], [1049, "Audience", "communication"]]

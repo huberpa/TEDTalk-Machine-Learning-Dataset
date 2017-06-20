@@ -1,0 +1,1 @@
+[[243, "woman", "somebody"], [695, "something", "right"], [628, "women", "data"], [304, "son", "door"], [99, "son", "vision"], [619, "women", "data"], [776, "members", "networks"], [427, "mother", "everyone"], [439, "mother", "company"], [612, "something", "work"]]

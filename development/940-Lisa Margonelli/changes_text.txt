@@ -1,0 +1,1 @@
+[[3206, "oil", "rest"], [2904, "price", "humanity"], [1652, "oil", "death"], [2927, "hand", "hope"], [2871, "Gulf", "Ghana"], [436, "chemistry", "inequality"], [3647, "cents", "acts"], [2162, "drilling", "timber"], [3327, "fuel", "raise"], [429, "oil", "scale"]]

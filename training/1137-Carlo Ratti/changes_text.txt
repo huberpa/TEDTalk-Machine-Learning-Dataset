@@ -1,0 +1,1 @@
+[[918, "everybody", "share"], [2594, "cloud", "fashion"], [1794, "building", "food"], [1742, "sensors", "dogs"], [70, "picture", "health"], [2597, "cloud", "marriage"], [1137, "things", "years"], [385, "percent", "use"], [1687, "architecture", "version"], [2301, "movement", "knowledge"]]

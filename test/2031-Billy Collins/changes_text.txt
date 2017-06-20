@@ -1,0 +1,1 @@
+[[316, "way", "right"], [234, "dog", "feed"], [372, "hand", "book"], [316, "way", "world"], [316, "way", "something"], [372, "hand", "car"], [234, "dog", "mom"], [372, "hand", "business"], [316, "way", "something"], [372, "hand", "planet"]]

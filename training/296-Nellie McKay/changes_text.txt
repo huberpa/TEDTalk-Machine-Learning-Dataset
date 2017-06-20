@@ -1,0 +1,1 @@
+[[159, "da", "microscope"], [139, "da", "contrast"], [197, "da", "surgeon"], [135, "da", "contrast"], [185, "da", "algorithm"], [193, "da", "pocket"], [119, "da", "surgeon"], [123, "da", "contrast"], [147, "da", "court"], [169, "da", "chip"]]

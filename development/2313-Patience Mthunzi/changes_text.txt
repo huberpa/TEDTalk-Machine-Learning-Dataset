@@ -1,0 +1,1 @@
+[[69, "medication", "alien"], [613, "HIV", "fuel"], [359, "cells", "words"], [521, "head", "education"], [139, "blood", "movement"], [556, "site", "reading"], [419, "drug", "truth"], [416, "cell", "century"], [473, "body", "stuff"], [541, "head", "disease"]]

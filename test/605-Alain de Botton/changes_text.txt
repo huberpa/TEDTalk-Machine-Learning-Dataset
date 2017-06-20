@@ -1,0 +1,1 @@
+[[595, "goods", "figures"], [444, "mother", "figure"], [1388, "thing", "right"], [3741, "people", "years"], [1830, "idea", "percent"], [3085, "success", "evolution"], [2590, "spectrum", "tradition"], [2773, "worship", "faculty"], [1054, "school", "country"], [609, "rewards", "horses"]]

@@ -1,0 +1,1 @@
+[[1366, "people", "things"], [946, "communities", "sounds"], [150, "region", "forest"], [910, "Joshua", "Mountain"], [1010, "poachers", "companions"], [1051, "wildlife", "mosquito"], [1049, "wildlife", "flash"], [1240, "things", "years"], [836, "school", "money"], [1453, "thing", "right"]]

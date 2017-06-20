@@ -1,0 +1,1 @@
+[[689, "customer", "silver"], [158, "percent", "fact"], [639, "people", "years"], [211, "Damien", "overhear"], [604, "people", "things"], [492, "condom", "fertility"], [705, "behavior", "rest"], [600, "people", "years"], [463, "things", "years"], [244, "place", "technology"]]

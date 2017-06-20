@@ -1,0 +1,1 @@
+[[587, "Andrew", "Force"], [725, "universities", "paintings"], [3082, "students", "kinds"], [2060, "grade", "management"], [3072, "answer", "planet"], [3508, "computer", "planet"], [565, "classes", "samples"], [2587, "questions", "species"], [2338, "grades", "rings"], [2495, "students", "ones"]]

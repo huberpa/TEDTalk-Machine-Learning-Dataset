@@ -1,0 +1,1 @@
+[[673, "role", "son"], [876, "something", "work"], [775, "days", "makes"], [4150, "piece", "research"], [1524, "experience", "play"], [244, "Tourist", "Scripps"], [1758, "way", "world"], [2382, "Saint", "freshman"], [2102, "foundation", "resource"], [3520, "site", "minute"]]

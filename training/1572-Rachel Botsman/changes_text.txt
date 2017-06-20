@@ -1,0 +1,1 @@
+[[1379, "day", "put"], [3097, "reputation", "attitude"], [403, "host", "desk"], [1285, "people", "things"], [1305, "Rabbits", "creeks"], [1672, "way", "right"], [1749, "Chris", "West"], [1297, "Rabbits", "creeks"], [3383, "Applause", "kind"], [2066, "reputation", "attitude"]]

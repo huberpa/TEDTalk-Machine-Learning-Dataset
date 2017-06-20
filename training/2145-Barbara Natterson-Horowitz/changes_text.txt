@@ -1,0 +1,1 @@
+[[859, "patient", "innovation"], [1487, "schools", "individuals"], [1522, "cancer", "model"], [206, "lion", "smartphone"], [1504, "Zoobiquity", "milligram"], [1157, "neglect", "billboard"], [308, "symptoms", "options"], [850, "patient", "fun"], [695, "patients", "humans"], [1154, "birth", "atmosphere"]]

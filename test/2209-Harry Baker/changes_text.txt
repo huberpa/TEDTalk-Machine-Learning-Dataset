@@ -1,0 +1,1 @@
+[[1016, "poetry", "chemistry"], [1771, "people", "things"], [1270, "world", "time"], [1449, "paper", "death"], [1489, "paper", "size"], [2760, "stuff", "moment"], [1617, "paper", "land"], [1027, "poetry", "funding"], [1612, "protests", "gains"], [1485, "paper", "rest"]]

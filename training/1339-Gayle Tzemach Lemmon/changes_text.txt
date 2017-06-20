@@ -1,0 +1,1 @@
+[[405, "business", "book"], [162, "school", "help"], [1237, "Washington", "Iraq"], [1488, "markets", "networks"], [832, "women", "data"], [515, "business", "history"], [113, "women", "data"], [1167, "loan", "proposition"], [2205, "women", "data"], [926, "women", "data"]]

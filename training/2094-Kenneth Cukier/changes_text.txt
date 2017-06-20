@@ -1,0 +1,1 @@
+[[1600, "Samuel", "Point"], [2276, "person", "school"], [1700, "nature", "cancer"], [926, "cell", "century"], [372, "data", "women"], [1460, "Samuel", "Point"], [378, "data", "women"], [2243, "century", "air"], [587, "information", "power"], [1516, "computer", "city"]]

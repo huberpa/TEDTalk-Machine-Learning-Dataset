@@ -1,0 +1,1 @@
+[[3003, "beauty", "treat"], [293, "kettle", "supervision"], [3094, "people", "years"], [2103, "things", "years"], [1432, "buildings", "jobs"], [880, "building", "anything"], [777, "building", "making"], [2872, "piece", "somebody"], [192, "history", "group"], [1047, "house", "art"]]

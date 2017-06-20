@@ -1,0 +1,1 @@
+[[1503, "Connecticut", "Poor"], [1765, "fish", "ability"], [533, "World", "fear"], [1642, "salmon", "prevalence"], [3004, "fish", "friend"], [862, "shrimp", "spider"], [2866, "things", "years"], [756, "fish", "friend"], [1085, "shrimp", "miracle"], [1285, "tuna", "tribe"]]

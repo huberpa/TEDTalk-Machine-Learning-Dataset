@@ -1,0 +1,1 @@
+[[1371, "street", "drug"], [1904, "people", "things"], [870, "skills", "beings"], [420, "hospital", "wife"], [1704, "things", "years"], [1700, "things", "years"], [1105, "thing", "right"], [734, "life", "down"], [1912, "people", "years"], [1857, "time", "world"]]

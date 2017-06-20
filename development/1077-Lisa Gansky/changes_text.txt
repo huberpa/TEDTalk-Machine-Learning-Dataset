@@ -1,0 +1,1 @@
+[[979, "car", "answer"], [1218, "percent", "idea"], [1404, "car", "planet"], [2548, "situation", "cut"], [237, "value", "morning"], [942, "company", "cancer"], [2008, "city", "reason"], [1989, "participation", "minister"], [2021, "data", "women"], [1215, "percent", "talk"]]

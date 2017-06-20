@@ -1,0 +1,1 @@
+[[528, "system", "story"], [505, "sleep", "activity"], [726, "Apple", "January"], [394, "sensor", "soup"], [448, "data", "women"], [330, "sensor", "currency"], [526, "sleep", "spread"], [817, "self", "raise"], [470, "sleep", "village"], [467, "sleep", "wait"]]

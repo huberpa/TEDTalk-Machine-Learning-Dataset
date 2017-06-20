@@ -1,0 +1,1 @@
+[[762, "Man", "speech"], [803, "Man", "return"], [615, "question", "bit"], [780, "Fifth", "LIGO"], [858, "Man", "character"], [855, "life", "down"], [845, "Man", "character"], [1275, "movie", "nobody"], [748, "Man", "window"], [781, "Man", "supply"]]

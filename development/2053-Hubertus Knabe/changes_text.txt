@@ -1,0 +1,1 @@
+[[2489, "Germany", "Does"], [272, "Cheka", "1.9"], [779, "Stasi", "Trade"], [1647, "regime", "tap"], [2348, "democracy", "table"], [719, "Stasi", "Trade"], [461, "Stasi", "Jones"], [1846, "prisoner", "pizza"], [2851, "asylum", "beef"], [1453, "Stasi", "Israeli"]]

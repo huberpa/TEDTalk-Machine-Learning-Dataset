@@ -1,0 +1,1 @@
+[[564, "fire", "source"], [729, "knives", "fishes"], [553, "fire", "tool"], [706, "tool", "village"], [420, "book", "car"], [1388, "car", "history"], [883, "things", "years"], [661, "pocketknife", "Muscle"], [519, "things", "years"], [1351, "car", "mind"]]

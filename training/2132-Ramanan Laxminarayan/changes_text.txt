@@ -1,0 +1,1 @@
+[[153, "drug", "camera"], [2337, "way", "time"], [789, "antibiotics", "centuries"], [2476, "drug", "approach"], [2107, "shift", "rule"], [1947, "antibiotics", "centuries"], [1542, "antibiotics", "centuries"], [1978, "price", "humanity"], [757, "antibiotics", "centuries"], [712, "issue", "movement"]]

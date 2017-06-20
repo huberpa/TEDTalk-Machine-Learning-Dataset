@@ -1,0 +1,1 @@
+[[400, "California", "John"], [396, "water", "show"], [2406, "security", "conversation"], [1588, "problems", "days"], [406, "loads", "mosquitos"], [143, "stuff", "She"], [1728, "materials", "objects"], [1513, "people", "years"], [2471, "security", "Look"], [861, "coal", "opinion"]]

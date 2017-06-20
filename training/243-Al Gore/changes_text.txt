@@ -1,0 +1,1 @@
+[[868, "size", "opportunity"], [251, "lightbulbs", "kitchens"], [318, "democracy", "security"], [2357, "news", "game"], [1048, "Earth", "New"], [169, "belief", "creation"], [2607, "capacity", "wealth"], [319, "crisis", "police"], [758, "ice", "stay"], [1422, "percent", "put"]]

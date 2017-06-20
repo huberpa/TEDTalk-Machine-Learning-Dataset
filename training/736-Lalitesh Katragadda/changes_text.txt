@@ -1,0 +1,1 @@
+[[351, "road", "wall"], [292, "users", "risks"], [42, "maps", "goals"], [105, "world", "time"], [153, "software", "response"], [181, "software", "success"], [37, "maps", "goals"], [161, "Mapmaker", "reconceive"], [306, "users", "characters"], [260, "countries", "dollars"]]

@@ -1,0 +1,1 @@
+[[1327, "app", "sunlight"], [1821, "bureaucracy", "cruise"], [1315, "app", "season"], [250, "February", "Spain"], [1097, "government", "age"], [2188, "applications", "senses"], [1401, "Citizens", "feats"], [756, "company", "universe"], [2293, "government", "age"], [1081, "government", "control"]]

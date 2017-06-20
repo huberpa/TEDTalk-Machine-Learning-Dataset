@@ -1,0 +1,1 @@
+[[1483, "someone", "nothing"], [523, "sports", "ancestors"], [604, "people", "years"], [94, "way", "time"], [1439, "Applause", "life"], [1274, "Olympics", "bucks"], [659, "Olympics", "bats"], [1324, "LA", "Derartu"], [864, "health", "city"], [1373, "world", "time"]]

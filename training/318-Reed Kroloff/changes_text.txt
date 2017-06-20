@@ -1,0 +1,1 @@
+[[468, "time", "world"], [1794, "machine", "leave"], [1641, "shape", "evidence"], [2070, "summer", "surgery"], [1490, "camera", "drive"], [1082, "difference", "sound"], [2240, "wood", "State"], [2111, "dunes", "nests"], [3092, "color", "robot"], [2158, "dune", "kilogram"]]

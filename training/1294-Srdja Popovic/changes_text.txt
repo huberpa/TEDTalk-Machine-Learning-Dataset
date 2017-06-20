@@ -1,0 +1,1 @@
+[[329, "people", "things"], [1422, "police", "robots"], [1232, "tactics", "geese"], [1769, "things", "years"], [1343, "dynamic", "date"], [1370, "side", "reason"], [764, "People", "parents"], [2307, "reason", "computer"], [60, "Monty", "oath"], [1998, "world", "time"]]

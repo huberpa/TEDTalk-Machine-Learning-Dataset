@@ -1,0 +1,1 @@
+[[2187, "buildings", "trees"], [579, "institutions", "minds"], [2794, "cost", "ability"], [2150, "electricity", "wind"], [1113, "oil", "land"], [3774, "energy", "She"], [2656, "pipe", "cooling"], [254, "electricity", "concept"], [49, ")", "time"], [1925, "oil", "size"]]

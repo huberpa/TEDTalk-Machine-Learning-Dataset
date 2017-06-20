@@ -1,0 +1,1 @@
+[[1922, "apples", "Humans"], [702, "difference", "figure"], [1372, "quality", "eye"], [365, "way", "world"], [264, "doctors", "skills"], [1245, "years", "things"], [1182, "quality", "cause"], [408, "patients", "changes"], [1249, "surgery", "sign"], [1555, "class", "nobody"]]

@@ -1,0 +1,1 @@
+[[3145, "wall", "safe"], [2396, "portrait", "proposal"], [1504, "cow", "smoke"], [390, "people", "years"], [2739, "faith", "wisdom"], [1628, "meaning", "sleep"], [3080, "shadow", "resilience"], [3096, "shadow", "tuna"], [2113, "freshener", "Evaluation"], [2829, "sky", "pressure"]]

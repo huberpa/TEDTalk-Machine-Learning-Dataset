@@ -1,0 +1,1 @@
+[[1845, "people", "things"], [2438, "pregnancies", "plains"], [3045, "children", "means"], [3999, "illness", "row"], [2185, "life", "work"], [181, "mother", "company"], [222, "color", "lab"], [902, "things", "years"], [1366, "procedures", "successes"], [1530, "feet", "images"]]

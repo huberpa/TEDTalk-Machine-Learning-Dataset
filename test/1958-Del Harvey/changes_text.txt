@@ -1,0 +1,1 @@
+[[1210, "picture", "reason"], [1101, "cat", "kitchen"], [1284, "image", "air"], [1057, "catastrophe", "kilometer"], [644, "accounts", "writers"], [142, "majority", "offer"], [937, "issue", "material"], [944, "issue", "red"], [153, "way", "time"], [1224, "picture", "planet"]]

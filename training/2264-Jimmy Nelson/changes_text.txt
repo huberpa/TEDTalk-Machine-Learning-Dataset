@@ -1,0 +1,1 @@
+[[1788, "bit", "place"], [3703, "fence", "camel"], [4090, "something", "work"], [3894, "image", "view"], [3872, "image", "moving"], [866, "tree", "fight"], [530, "week", "walk"], [1405, "Ted", "Telescope"], [1578, "lessons", "mountains"], [885, "goat", "cellphone"]]

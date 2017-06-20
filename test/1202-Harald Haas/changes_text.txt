@@ -1,0 +1,1 @@
+[[1120, "hole", "eating"], [1775, "data", "women"], [1793, "data", "women"], [410, "light", "science"], [884, "LED", "Men"], [1935, "light", "stuff"], [156, "lives", "countries"], [724, "bulbs", "philosophers"], [431, "spectrum", "battery"], [770, "bulbs", "gardens"]]

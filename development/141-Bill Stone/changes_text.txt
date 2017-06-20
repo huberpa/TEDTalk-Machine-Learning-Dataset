@@ -1,0 +1,1 @@
+[[1296, "ocean", "DNA"], [323, "entrance", "vocabulary"], [447, "places", "friends"], [2449, "everything", "money"], [1244, "ice", "stay"], [2601, "space", "making"], [1542, "wall", "conversation"], [718, "things", "years"], [2784, "years", "things"], [1217, "ice", "street"]]

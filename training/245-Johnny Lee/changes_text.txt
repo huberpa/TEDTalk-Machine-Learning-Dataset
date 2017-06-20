@@ -1,0 +1,1 @@
+[[443, "whiteboard", "euro"], [544, "percent", "idea"], [378, "button", "shark"], [97, "technology", "story"], [668, "computer", "city"], [340, "dollars", "lives"], [707, "3D", "painting"], [452, ")", "time"], [61, "exploration", "mortality"], [450, "(", "time"]]

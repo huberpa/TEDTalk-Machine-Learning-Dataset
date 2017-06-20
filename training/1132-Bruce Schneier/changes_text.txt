@@ -1,0 +1,1 @@
+[[3749, "security", "wall"], [2483, "fear", "issue"], [2378, "flu", "metal"], [2771, "belt", "rap"], [3783, "reality", "leave"], [3642, "baby", "innovation"], [1143, "mangoes", "starches"], [3736, "security", "Look"], [2051, "safety", "hell"], [3028, "health", "bad"]]

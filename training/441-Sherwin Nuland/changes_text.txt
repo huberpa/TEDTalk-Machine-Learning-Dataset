@@ -1,0 +1,1 @@
+[[1640, "root", "apartment"], [1368, "world", "time"], [1332, "man", "play"], [1373, "world", "time"], [1684, "compassion", "waste"], [595, "way", "right"], [1673, "world", "time"], [1005, "anything", "play"], [1529, "world", "time"], [1303, "page", "decision"]]

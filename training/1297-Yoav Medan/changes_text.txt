@@ -1,0 +1,1 @@
+[[134, "ultrasound", "norm"], [410, "ultrasound", "renewables"], [620, "MR", "grocery"], [201, "lab", "act"], [1701, "radiation", "roof"], [2249, "fibroid", "baboon"], [996, "safety", "bear"], [677, "tremor", "microfinance"], [1200, "imaging", "charity"], [1905, "U.S.", "Yes"]]

@@ -1,0 +1,1 @@
+[[2483, "data", "women"], [3214, "flu", "strength"], [1330, "trial", "suffering"], [1711, "pill", "accountability"], [214, "cancer", "word"], [2169, "effects", "relationships"], [2950, "coin", "backyard"], [2125, "dose", "cap"], [2047, "nothing", "computer"], [2573, "action", "success"]]

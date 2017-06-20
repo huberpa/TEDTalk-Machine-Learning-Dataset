@@ -1,0 +1,1 @@
+[[331, "hey", "diagnosis"], [2252, "heaven", "golf"], [1389, "car", "planet"], [327, "Susie", "Poetry"], [3255, "Michael", "Korea"], [3097, "guitar", "logging"], [4168, "sounds", "starts"], [3381, "Christmas", "Apple"], [1742, "news", "war"], [454, "hey", "diagnosis"]]

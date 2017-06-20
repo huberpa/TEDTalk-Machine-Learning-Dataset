@@ -1,0 +1,1 @@
+[[772, "information", "person"], [1919, "car", "hand"], [2622, "science", "experience"], [1678, "judge", "sustainability"], [2033, "feet", "areas"], [132, "father", "air"], [2019, "car", "planet"], [2799, "memories", "mountains"], [1960, "gun", "layer"], [2773, "None", "skull"]]

@@ -1,0 +1,1 @@
+[[2298, "skin", "son"], [1224, "image", "father"], [2119, "way", "world"], [1451, "image", "culture"], [1543, "house", "game"], [661, "things", "years"], [552, "article", "quote"], [2096, "way", "world"], [210, "floor", "content"], [2668, "death", "deal"]]

@@ -1,0 +1,1 @@
+[[1213, "hum", "pig"], [2516, "hum", "morality"], [699, "hours", "ones"], [3609, "play", "build"], [250, "waitress", "drawer"], [1720, "shows", "changes"], [2410, "hum", "fabric"], [1479, "hum", "actor"], [249, "Southern", "encounter"], [1514, "hum", "meal"]]

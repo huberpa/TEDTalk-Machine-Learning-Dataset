@@ -1,0 +1,1 @@
+[[1258, "surgery", "artist"], [1289, "brain", "place"], [455, "picture", "nothing"], [806, "cure", "GDP"], [1308, "brain", "love"], [1433, "wellness", "penny"], [531, "cancer", "word"], [517, "hospital", "speed"], [781, "cure", "lunch"], [683, "cultures", "conversations"]]

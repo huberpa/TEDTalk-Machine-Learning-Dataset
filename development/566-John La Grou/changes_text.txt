@@ -1,0 +1,1 @@
+[[54, "fires", "supplies"], [131, "circuit", "pitch"], [282, "data", "women"], [90, "fires", "supplies"], [241, "power", "number"], [324, "receptacle", "cultivation"], [242, "outlet", "resin"], [87, "electricity", "position"], [92, "Well", "even"], [304, "appliance", "loudspeaker"]]

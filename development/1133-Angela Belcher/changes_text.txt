@@ -1,0 +1,1 @@
+[[2060, "oxygen", "notion"], [1812, "battery", "foundation"], [1163, "table", "dream"], [1019, "table", "month"], [1723, "carbon", "happiness"], [2266, "nature", "disease"], [1465, "virus", "consciousness"], [974, "sequence", "planning"], [312, "information", "power"], [1731, "virus", "range"]]

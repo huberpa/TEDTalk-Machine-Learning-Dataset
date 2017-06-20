@@ -1,0 +1,1 @@
+[[400, "phone", "walk"], [208, "Have", "Brazil"], [397, "someone", "community"], [355, "someone", "computer"], [177, "Have", "Japan"], [447, "phone", "father"], [278, "Have", "Japan"], [229, "Have", "Japan"], [372, "phone", "week"], [427, "phone", "death"]]

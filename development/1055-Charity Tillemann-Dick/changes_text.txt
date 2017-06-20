@@ -1,0 +1,1 @@
+[[1560, "patient", "innovation"], [1685, "match", "moon"], [2376, ")", "time"], [1670, "doctor", "sun"], [1588, "transplant", "substance"], [1538, "transplant", "recipe"], [1962, "tubes", "nerves"], [113, "heart", "society"], [1021, "way", "world"], [573, "pump", "panel"]]

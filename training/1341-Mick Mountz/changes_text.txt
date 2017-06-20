@@ -1,0 +1,1 @@
+[[1193, "couch", "twin"], [70, "solution", "fly"], [1923, "candy", "shower"], [1058, "Coke", "Shanghai"], [2105, "highway", "interior"], [1630, "environment", "sometimes"], [57, "robots", "sorts"], [502, "home", "power"], [1237, "idea", "today"], [1057, "Diet", "Seymour"]]

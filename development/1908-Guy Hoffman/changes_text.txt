@@ -1,0 +1,1 @@
+[[393, "character", "chemical"], [1617, "lamp", "mentor"], [2985, "robot", "product"], [2648, "robot", "innovation"], [1141, "name", "disease"], [3038, "robot", "law"], [1222, "muscle", "accident"], [2838, "robot", "color"], [1871, "brain", "technology"], [2801, "rapper", "reverence"]]

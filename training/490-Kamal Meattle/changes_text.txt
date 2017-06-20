@@ -1,0 +1,1 @@
+[[267, "plant", "dream"], [584, "world", "time"], [245, "plant", "Look"], [489, "percent", "fact"], [451, "percent", "fact"], [581, "percent", "down"], [508, "percent", "year"], [591, "buildings", "jobs"], [446, "percent", "fact"], [221, "plant", "conversation"]]

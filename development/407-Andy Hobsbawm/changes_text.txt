@@ -1,0 +1,1 @@
+[[414, "Gusty", "Medusa"], [48, "creativity", "male"], [249, "things", "years"], [420, "love", "place"], [66, "creativity", "capacity"], [204, "creativity", "male"], [59, "deprivation", "brink"], [158, "creativity", "heat"], [398, "tent", "breakthrough"], [370, "name", "education"]]

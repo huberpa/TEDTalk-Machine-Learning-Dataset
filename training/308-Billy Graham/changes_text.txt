@@ -1,0 +1,1 @@
+[[2848, "life", "down"], [2822, "God", "name"], [2404, "death", "deal"], [954, "problems", "days"], [1392, "Einstein", "NASA"], [1633, "soul", "diet"], [3681, "evil", "coal"], [3674, "David", "San"], [3850, "truth", "message"], [1762, "questions", "kinds"]]
